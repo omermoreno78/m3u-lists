@@ -1,233 +1,233 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
-http://tecnotv.club/rrt/smtv.php?c=107_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",23/Feb/2021
-http://tecnotv.club/rrt/smtv.php?c=107_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=107_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",25/Feb/2021
+http://tecnotv.club/wws/smtv2.php?c=107_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://tecnotv.club/rrt/smtv.php?c=107_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=107_&f=.m3u8
 
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,DISNEY CHANNEL
-http://tecnotv.club/rrt/smtv.php?c=107_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=107_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,DISNEY XD
-http://tecnotv.club/rrt/smtv.php?c=108_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=108_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,DISNEY JR
-http://tecnotv.club/rrt/smtv.php?c=109_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=109_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,NICK
-http://tecnotv.club/rrt/smtv.php?c=110_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=110_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,NICK MUSIC
-http://tecnotv.club/rrt/smtv.php?c=111_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=111_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,NICK JR
-http://tecnotv.club/rrt/smtv.php?c=112_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=112_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,NICK MUSIC 2
-http://tecnotv.club/rrt/smtv.php?c=113_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=113_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,CARTOON NETWORK
-http://tecnotv.club/rrt/smtv.php?c=114_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=114_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,BOOMERANG
-http://tecnotv.club/rrt/smtv.php?c=115_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=115_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,TOONCAST
-http://tecnotv.club/rrt/smtv.php?c=116_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=116_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,DISCOVERY KIDS
-http://tecnotv.club/rrt/smtv.php?c=117_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=117_&f=.m3u8
 #EXTINF:-0  #EXTINF:-0  group-title="INFANTIL",,NAT GEO KIDS
-http://tecnotv.club/rrt/smtv.php?c=118_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=118_&f=.m3u8
 
 #EXTINF:-0  group-title="CULTURA",HISTORY
-http://tecnotv.club/rrt/smtv.php?c=49_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=49_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",H2
-http://tecnotv.club/rrt/smtv.php?c=50_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=50_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",NAT GEO
-http://tecnotv.club/rrt/smtv.php?c=92_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=92_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",NAT GEO 2
-http://tecnotv.club/rrt/smtv.php?c=93_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=93_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",ANIMAL PLANET
-http://tecnotv.club/rrt/smtv.php?c=94_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=94_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY CHANNEL
-http://tecnotv.club/rrt/smtv.php?c=95_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=95_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY TURBO
-http://tecnotv.club/rrt/smtv.php?c=96_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=96_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY H&H
-http://tecnotv.club/rrt/smtv.php?c=97_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=97_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY ID
-http://tecnotv.club/rrt/smtv.php?c=98_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=98_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",A&E
-http://tecnotv.club/rrt/smtv.php?c=99_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=99_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY TLC
-http://tecnotv.club/rrt/smtv.php?c=100_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=100_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY THEATER
-http://tecnotv.club/rrt/smtv.php?c=101_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=101_&f=.m3u8
 #EXTINF:-0  group-title="CULTURA",DISCOVERY WORLD
-http://tecnotv.club/rrt/smtv.php?c=102_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=102_&f=.m3u8
 
 #EXTINF:-0  group-title="ENTRETENIMIENTO",AZTECA 7
-http://tecnotv.club/rrt/smtv.php?c=1_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=1_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",CANAL 5
-http://tecnotv.club/rrt/smtv.php?c=2_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=2_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",TELEFE
-http://tecnotv.club/rrt/smtv.php?c=45_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=45_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",EL TRECE
-http://tecnotv.club/rrt/smtv.php?c=46_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=46_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://tecnotv.club/rrt/smtv.php?c=47_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=47_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",TELEMUNDO
-http://tecnotv.club/rrt/smtv.php?c=48_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=48_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",PASIONES
-http://tecnotv.club/rrt/smtv.php?c=51_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=51_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",AZTECA UNO
-http://tecnotv.club/rrt/smtv.php?c=52_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=52_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",AZTECA MUNDO
-http://tecnotv.club/rrt/smtv.php?c=53_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=53_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",AZTECA CINEMA
-http://tecnotv.club/rrt/smtv.php?c=54_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=54_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",GALAVISION
-http://tecnotv.club/rrt/smtv.php?c=55_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=55_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",SINCANAL02
-http://tecnotv.club/rrt/smtv.php?c=56_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=56_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS
-http://tecnotv.club/rrt/smtv.php?c=57_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=57_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",SYFY
-http://tecnotv.club/rrt/smtv.php?c=58_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=58_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",CARACOL TV
-http://tecnotv.club/rrt/smtv.php?c=59_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=59_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",TVC
-http://tecnotv.club/rrt/smtv.php?c=60_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=60_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",ATV
-http://tecnotv.club/rrt/smtv.php?c=61_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=61_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",UNIVISION
-http://tecnotv.club/rrt/smtv.php?c=62_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=62_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",UNICABLE
-http://tecnotv.club/rrt/smtv.php?c=63_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=63_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",UNIMAS
-http://tecnotv.club/rrt/smtv.php?c=64_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=64_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",IMAGEN TV
-http://tecnotv.club/rrt/smtv.php?c=65_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=65_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",CNN Ñ
-http://tecnotv.club/rrt/smtv.php?c=66_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=66_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",RT Ñ
-http://tecnotv.club/rrt/smtv.php?c=67_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=67_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",E!
-http://tecnotv.club/rrt/smtv.php?c=103_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=103_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",LIFETIME
-http://tecnotv.club/rrt/smtv.php?c=104_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=104_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",TBS
-http://tecnotv.club/rrt/smtv.php?c=105_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=105_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",GOURMET
-http://tecnotv.club/rrt/smtv.php?c=106_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=106_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",ADN40
-http://tecnotv.club/rrt/smtv.php?c=127_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=127_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",ONCE NIÑOS
-http://tecnotv.club/rrt/smtv.php?c=132_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=132_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",HOLATV
-http://tecnotv.club/rrt/smtv.php?c=136_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=136_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",TRUTV
-http://tecnotv.club/rrt/smtv.php?c=137_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=137_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",UNIVERSO
-http://tecnotv.club/rrt/smtv.php?c=142_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=142_&f=.m3u8
 #EXTINF:-0  group-title="ENTRETENIMIENTO",FOROTV
-http://tecnotv.club/rrt/smtv.php?c=143_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=143_&f=.m3u8
 
 #EXTINF:-0  group-title="CINE Y SERIES",TCM
-http://tecnotv.club/rrt/smtv.php?c=152_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=152_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FX
-http://tecnotv.club/rrt/smtv.php?c=70_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=70_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FXM
-http://tecnotv.club/rrt/smtv.php?c=71_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=71_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX LIFE
-http://tecnotv.club/rrt/smtv.php?c=72_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=72_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",GOLDEN +
-http://tecnotv.club/rrt/smtv.php?c=73_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=73_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",GOLDEN EDGE
-http://tecnotv.club/rrt/smtv.php?c=74_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=74_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",GOLDEN PREMIER
-http://tecnotv.club/rrt/smtv.php?c=75_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=75_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",TNT SERIES
-http://tecnotv.club/rrt/smtv.php?c=76_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=76_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",SONY
-http://tecnotv.club/rrt/smtv.php?c=77_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=77_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",AXN
-http://tecnotv.club/rrt/smtv.php?c=78_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=78_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",UNIVERSAL CHANNEL
-http://tecnotv.club/rrt/smtv.php?c=79_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=79_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",SINCANAL03
-http://tecnotv.club/rrt/smtv.php?c=80_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=80_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",MULTI PREMIER
-http://tecnotv.club/rrt/smtv.php?c=81_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=81_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",AMC
-http://tecnotv.club/rrt/smtv.php?c=82_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=82_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",PARAMOUNT
-http://tecnotv.club/rrt/smtv.php?c=83_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=83_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",CINE LATINO
-http://tecnotv.club/rrt/smtv.php?c=84_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=84_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",DE PELICULA +
-http://tecnotv.club/rrt/smtv.php?c=85_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=85_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",I SAT
-http://tecnotv.club/rrt/smtv.php?c=86_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=86_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO
-http://tecnotv.club/rrt/smtv.php?c=31_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=31_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO 2
-http://tecnotv.club/rrt/smtv.php?c=32_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=32_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO +
-http://tecnotv.club/rrt/smtv.php?c=33_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=33_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO FAMILY
-http://tecnotv.club/rrt/smtv.php?c=34_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=34_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO XTREME
-http://tecnotv.club/rrt/smtv.php?c=35_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=35_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO POP
-http://tecnotv.club/rrt/smtv.php?c=36_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=36_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",HBO MUNDI
-http://tecnotv.club/rrt/smtv.php?c=149_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=149_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",SPACE
-http://tecnotv.club/rrt/smtv.php?c=39_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=39_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",WARNER
-http://tecnotv.club/rrt/smtv.php?c=40_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=40_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",TNT
-http://tecnotv.club/rrt/smtv.php?c=41_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=41_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX CHANNEL
-http://tecnotv.club/rrt/smtv.php?c=42_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=42_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",CINEMAX
-http://tecnotv.club/rrt/smtv.php?c=43_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=43_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",CINECANAL
-http://tecnotv.club/rrt/smtv.php?c=44_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=44_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX MOVIES
-http://tecnotv.club/rrt/smtv.php?c=68_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=68_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX FAMILY
-http://tecnotv.club/rrt/smtv.php?c=69_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=69_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX ACTION
-http://tecnotv.club/rrt/smtv.php?c=138_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=138_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX ACTION
-http://tecnotv.club/rrt/smtv.php?c=37_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=37_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX SERIES
-http://tecnotv.club/rrt/smtv.php?c=38_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=38_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX CLASSICS
-http://tecnotv.club/rrt/smtv.php?c=139_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=139_&f=.m3u8
 #EXTINF:-0  group-title="CINE Y SERIES",FOX COMEDY
-http://tecnotv.club/rrt/smtv.php?c=133_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=133_&f=.m3u8
 
 #EXTINF:-0  group-title="MUSICA",MTV
-http://tecnotv.club/rrt/smtv.php?c=87_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=87_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",MTV HITS
-http://tecnotv.club/rrt/smtv.php?c=88_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=88_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",HTV
-http://tecnotv.club/rrt/smtv.php?c=89_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=89_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",BANDAMAX
-http://tecnotv.club/rrt/smtv.php?c=90_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=90_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",VH1
-http://tecnotv.club/rrt/smtv.php?c=120_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=120_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",MTV CLASSICS
-http://tecnotv.club/rrt/smtv.php?c=121_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=121_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",TELEHIT MUSIC
-http://tecnotv.club/rrt/smtv.php?c=122_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=122_&f=.m3u8
 #EXTINF:-0  group-title="MUSICA",TOP LATINO
-http://tecnotv.club/rrt/smtv.php?c=123_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=123_&f=.m3u8
 
 
 #EXTINF:-0  group-title="24/7",TERROR
-http://tecnotv.club/rrt/smtv.php?c=129_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=129_&f=.m3u8
 #EXTINF:-0  group-title="24/7",SOUTH PARK
-http://tecnotv.club/rrt/smtv.php?c=146_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=146_&f=.m3u8
 #EXTINF:-0  group-title="24/7",CHAVO DEL 8
-http://tecnotv.club/rrt/smtv.php?c=150_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=150_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="24/7", Simpson
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
@@ -266,7 +266,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="24/7", Educa  TV
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="24/7", poperang TV
-http://8.9.4.128:8080/hls/rrterangtv.m3u8
+http://8.9.4.128:8080/hls/wwserangtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="24/7", Tooncast
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK6AHIn.png" group-title="24/7", Cachipum TV
@@ -275,214 +275,214 @@ https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 https://m3u-editor.com/serve/rokumaniatest/156476846
 
 #EXTINF:-0  group-title="DEPORTES",TUDN
-http://tecnotv.club/rrt/smtv.php?c=3_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=3_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",GOL PERU
-http://tecnotv.club/rrt/smtv.php?c=6_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=6_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",GOL TV
-http://tecnotv.club/rrt/smtv.php?c=7_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=7_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",WIN SPORTS
-http://tecnotv.club/rrt/smtv.php?c=8_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=8_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",TNT SPORTS
-http://tecnotv.club/rrt/smtv.php?c=9_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=9_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tecnotv.club/rrt/smtv.php?c=10_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=10_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",TYC SPORTS
-http://tecnotv.club/rrt/smtv.php?c=11_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=11_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS
-http://tecnotv.club/rrt/smtv.php?c=12_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=12_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS 2
-http://tecnotv.club/rrt/smtv.php?c=13_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=13_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS 3
-http://tecnotv.club/rrt/smtv.php?c=14_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=14_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN DEPORTES
-http://tecnotv.club/rrt/smtv.php?c=15_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=15_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN EXTRA
-http://tecnotv.club/rrt/smtv.php?c=16_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=16_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN
-http://tecnotv.club/rrt/smtv.php?c=17_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=17_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN 2
-http://tecnotv.club/rrt/smtv.php?c=18_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=18_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN 3
-http://tecnotv.club/rrt/smtv.php?c=19_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=19_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",DIRECTV SPORTS
-http://tecnotv.club/rrt/smtv.php?c=20_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=20_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",DIRECTV SPORTS 2
-http://tecnotv.club/rrt/smtv.php?c=21_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=21_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",DIRECTV SPORTS +
-http://tecnotv.club/rrt/smtv.php?c=22_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=22_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",BEIN SPORTS Ñ
-http://tecnotv.club/rrt/smtv.php?c=23_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=23_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS MX
-http://tecnotv.club/rrt/smtv.php?c=24_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=24_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS 2 MX
-http://tecnotv.club/rrt/smtv.php?c=25_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=25_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",FOX SPORTS 3 MX
-http://tecnotv.club/rrt/smtv.php?c=26_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=26_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN 2 MX
-http://tecnotv.club/rrt/smtv.php?c=27_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=27_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN MX
-http://tecnotv.club/rrt/smtv.php?c=28_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=28_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN 3 MX
-http://tecnotv.club/rrt/smtv.php?c=29_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=29_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",AFIZZIONADOS
-http://tecnotv.club/rrt/smtv.php?c=30_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=30_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",NFL NETWORK
-http://tecnotv.club/rrt/smtv.php?c=151_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=151_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",ESPN U
-http://tecnotv.club/rrt/smtv.php?c=148_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=148_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",WIN SPORTS
-http://tecnotv.club/rrt/smtv.php?c=140_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=140_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",MLB NETWORK
-http://tecnotv.club/rrt/smtv.php?c=134_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=134_&f=.m3u8
 #EXTINF:-0  group-title="DEPORTES",NBA TV
-http://tecnotv.club/rrt/smtv.php?c=125_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=125_&f=.m3u8
 
 #EXTINF:-0  group-title="CANALES HD",WILLAX
-http://tecnotv.club/rrt/smtv.php?c=153_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=153_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",NHL NETWORK USA
-http://tecnotv.club/rrt/smtv.php?c=154_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=154_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TIGO SPORTS
-http://tecnotv.club/rrt/smtv.php?c=201_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=201_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",SINCANAL09
-http://tecnotv.club/rrt/smtv.php?c=202_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=202_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",AZTECA 7 HD
-http://tecnotv.club/rrt/smtv.php?c=203_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=203_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TUDN HD
-http://tecnotv.club/rrt/smtv.php?c=205_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=205_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",AMERICA TV 
-http://tecnotv.club/rrt/smtv.php?c=206_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=206_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO HD
-http://tecnotv.club/rrt/smtv.php?c=207_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=207_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO 2 HD
-http://tecnotv.club/rrt/smtv.php?c=208_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=208_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO FAMILY HD
-http://tecnotv.club/rrt/smtv.php?c=210_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=210_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO SIGNATURE
-http://tecnotv.club/rrt/smtv.php?c=211_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=211_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO MUNDI
-http://tecnotv.club/rrt/smtv.php?c=212_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=212_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HBO XTREME
-http://tecnotv.club/rrt/smtv.php?c=213_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=213_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TNT HD
-http://tecnotv.club/rrt/smtv.php?c=214_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=214_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",CINEMAX HD
-http://tecnotv.club/rrt/smtv.php?c=215_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=215_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",SPACE HD
-http://tecnotv.club/rrt/smtv.php?c=216_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=216_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",AXN HD
-http://tecnotv.club/rrt/smtv.php?c=217_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=217_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FX HD
-http://tecnotv.club/rrt/smtv.php?c=221_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=221_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",WWE TV
-http://tecnotv.club/rrt/smtv.php?c=222_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=222_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",CINECANAL
-http://tecnotv.club/rrt/smtv.php?c=223_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=223_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX ACTION HD
-http://tecnotv.club/rrt/smtv.php?c=224_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=224_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",GOLDEN PREMIER HD
-http://tecnotv.club/rrt/smtv.php?c=225_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=225_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",GOLDEN EDGE HD
-http://tecnotv.club/rrt/smtv.php?c=226_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=226_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",NAT GEO WILD HD
-http://tecnotv.club/rrt/smtv.php?c=227_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=227_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISCOVERY CHANNEL HD
-http://tecnotv.club/rrt/smtv.php?c=228_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=228_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",H&H HD
-http://tecnotv.club/rrt/smtv.php?c=229_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=229_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISCOVERY SCIENCE HD
-http://tecnotv.club/rrt/smtv.php?c=230_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=230_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISCOVERY WORLD HD
-http://tecnotv.club/rrt/smtv.php?c=231_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=231_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISCOVERY THEATER HD
-http://tecnotv.club/rrt/smtv.php?c=232_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=232_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISCOVERY ID HD
-http://tecnotv.club/rrt/smtv.php?c=233_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=233_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",HISTORY HD
-http://tecnotv.club/rrt/smtv.php?c=234_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=234_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",H2 HD
-http://tecnotv.club/rrt/smtv.php?c=235_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=235_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",LAS ESTRELLAS
-http://tecnotv.club/rrt/smtv.php?c=236_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=236_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX CINEMA HD
-http://tecnotv.club/rrt/smtv.php?c=237_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=237_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",GALAVISION HD
-http://tecnotv.club/rrt/smtv.php?c=238_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=238_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS HD
-http://tecnotv.club/rrt/smtv.php?c=239_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=239_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS 2 HD
-http://tecnotv.club/rrt/smtv.php?c=240_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=240_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS 3 HD
-http://tecnotv.club/rrt/smtv.php?c=241_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=241_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ESPN HD
-http://tecnotv.club/rrt/smtv.php?c=243_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=243_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ESPN 3 HD
-http://tecnotv.club/rrt/smtv.php?c=244_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=244_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS SUR HD
-http://tecnotv.club/rrt/smtv.php?c=246_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=246_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS 2 SUR HD
-http://tecnotv.club/rrt/smtv.php?c=247_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=247_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS 3 SUR HD
-http://tecnotv.club/rrt/smtv.php?c=248_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=248_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ESPN HD SUR
-http://tecnotv.club/rrt/smtv.php?c=249_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=249_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ESPN 3 HD SUR
-http://tecnotv.club/rrt/smtv.php?c=250_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=250_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",SINCANALHD01
-http://tecnotv.club/rrt/smtv.php?c=251_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=251_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DHE
-http://tecnotv.club/rrt/smtv.php?c=253_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=253_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TNTSPORTS HD
-http://tecnotv.club/rrt/smtv.php?c=254_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=254_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX SPORTS PREMIUM HD
-http://tecnotv.club/rrt/smtv.php?c=255_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=255_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DIRECTV SPORTS HD
-http://tecnotv.club/rrt/smtv.php?c=256_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=256_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DIRECTV SPORTS 2 HD
-http://tecnotv.club/rrt/smtv.php?c=257_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=257_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DIRECTV SPORTS + HD
-http://tecnotv.club/rrt/smtv.php?c=258_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=258_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",CARACOL HD
-http://tecnotv.club/rrt/smtv.php?c=259_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=259_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",WIN SPORTS +
-http://tecnotv.club/rrt/smtv.php?c=261_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=261_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",SONY HD
-http://tecnotv.club/rrt/smtv.php?c=263_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=263_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",AMC HD
-http://tecnotv.club/rrt/smtv.php?c=264_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=264_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",PARAMOUNT HD
-http://tecnotv.club/rrt/smtv.php?c=265_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=265_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",FOX MOVIES HD
-http://tecnotv.club/rrt/smtv.php?c=266_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=266_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TEEN NICK
-http://tecnotv.club/rrt/smtv.php?c=268_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=268_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",CARTOON NETWORK HD
-http://tecnotv.club/rrt/smtv.php?c=269_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=269_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",DISNEY CHANNEL HD
-http://tecnotv.club/rrt/smtv.php?c=270_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=270_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ANIMAL PLANET HD
-http://tecnotv.club/rrt/smtv.php?c=272_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=272_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",LA UNO
-http://tecnotv.club/rrt/smtv.php?c=328_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=328_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",LA DOS
-http://tecnotv.club/rrt/smtv.php?c=329_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=329_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TDP
-http://tecnotv.club/rrt/smtv.php?c=330_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=330_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",24H
-http://tecnotv.club/rrt/smtv.php?c=331_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=331_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",ANTENA 3
-http://tecnotv.club/rrt/smtv.php?c=332_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=332_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",LA SEXTA
-http://tecnotv.club/rrt/smtv.php?c=333_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=333_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",MOVISTAR ACCION
-http://tecnotv.club/rrt/smtv.php?c=337_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=337_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",MOVISTAR ESTRENOS
-http://tecnotv.club/rrt/smtv.php?c=338_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=338_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",MOVISTAR FORMULA 1
-http://tecnotv.club/rrt/smtv.php?c=339_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=339_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",MOVISTAR LA LIGA
-http://tecnotv.club/rrt/smtv.php?c=350_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=350_&f=.m3u8
 #EXTINF:-0  group-title="CANALES HD",TOROS
-http://tecnotv.club/rrt/smtv.php?c=352_&f=.m3u8
+http://tecnotv.club/wws/smtv2.php?c=352_&f=.m3u8
 
 
 -------------------
@@ -490,7 +490,7 @@ http://tecnotv.club/rrt/smtv.php?c=352_&f=.m3u8
 #EXTINF:-1 group-title="Lista 17",Baby TV
 http://nano.zappingtv.com:1935/babytv/babytv.smil/chunklist_b1628000_sles.m3u8
 #EXTINF:-1 group-title="Lista 17",poperang
-http://nano.zappingtv.com:1935/rrterang/rrterang.smil/chunklist_b3628000_sles.m3u8
+http://nano.zappingtv.com:1935/wwserang/wwserang.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 group-title="Lista 17",Cartoon Network
 http://nano.zappingtv.com:1935/cn/world.smil/chunklist_b3828000_sles.m3u8
 #EXTINF:-1 group-title="Lista 17",Discovery Kids
