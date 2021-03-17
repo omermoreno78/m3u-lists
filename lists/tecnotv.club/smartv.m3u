@@ -1,14 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
-http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",14/Mar/2021
-http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
+http://tecnotv.club/pzz/smartv.php?c=c=180_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",16/Mar/2021
+http://tecnotv.club/pzz/smartv.php?c=c=180_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
+http://tecnotv.club/pzz/smartv.php?c=c=180_&f=.m3u8
 
 #EXTINF:-1 logo="http://boomerang-tv.com/gallery/pro-ts1612273194.jpg" group-title="INFANTIL",Boomerang TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTIL", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", Locomotion
@@ -32,403 +31,576 @@ https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", Simpson
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 logo="https://wowelsalvador.com/images/wow.fw.png" group-title="ENTRETENIMIENTO",Wow TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/rtA28xY.png" group-title="Infantil",ZOOMOO (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2252
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/T2Py0OE.jpg" group-title="Infantil",PAKA PAKA (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2253
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/IZLgtG8.jpg" group-title="Infantil",SEMILLITAS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2254
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/SKhFk8B/d5ccff704fcef437b687e86b64e6fb69.png" group-title="Infantil",BABY TV (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2255
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/mRYnjft/6e7c7ea569d77339c5e393b1db459106.png" group-title="Infantil",BABY FIRST (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2257
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/rcsW33x/BOOMERANG.png" group-title="Infantil",BOOMERANG (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2259
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/zZCO0tA.jpg" group-title="Infantil",LOCOMOTION
+http://tecnotv.club/pzz/smtv1.php?c=2262
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/JRZfXQ5/ed5d69a90b65bc5285c5e36f8d9bcc33.png" group-title="Infantil",CARTOON NETWORK
+http://tecnotv.club/pzz/smtv1.php?c=2264
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/bvn88nz/56ea43b2173aea7c907eb34aead50a0b.png" group-title="Infantil",DISCOVERY KIDS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2269
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Kx757PY/64145eca1a86bdcbe9b204fb42aa2090.png" group-title="Infantil",DISNEY XD (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2273
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Bj7wmc1/d3b40ca2d8d78a9c90b050f646a5651d.png" group-title="Infantil",DISNEY CHANNEL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2277
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/mRBB8Ud.jpg" group-title="Infantil",DISNEY JUNIOR (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2283
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/QFCzQ1W/5cd91c0bf3f48037c5e91c93636aa916.png" group-title="Infantil",NAT GEO KIDS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2286
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/9khbKyW.png" group-title="Infantil",NICKELODEON (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2291
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/93qngLs/f042bdbbd657213b15807e511cd7084f.png" group-title="Infantil",NICK 2
+http://tecnotv.club/pzz/smtv1.php?c=2297
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/QvtZWqD/cbee661ea6cb7140aac365fb29aa110a.png" group-title="Infantil",NICK JR (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2300
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/gSgggc5/68b6ce6116083010512d1e45999e38e0.png" group-title="Infantil",TOONCAST (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2302
 
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
-http://tecnotv.club/coo/smartv.php?c=136_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TV PREMIUM",CANAL 2 MX
-http://tecnotv.club/coo/smartv.php?c=135_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_nxdwanla.png" group-title="TV PREMIUM",CANAL 5 MX
-http://tecnotv.club/coo/smartv.php?c=134_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_msqleg9z.png" group-title="TV PREMIUM",AZTECA 7 MX
-http://tecnotv.club/coo/smartv.php?c=133_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TV PREMIUM",NUEVE
-http://tecnotv.club/coo/smartv.php?c=1541_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/coo/smartv.php?c=130_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxaction_thumb_650zv1c1.png" group-title="TV PREMIUM",STAR ACTION
-http://tecnotv.club/coo/smartv.php?c=170_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TV PREMIUM",SPACE
-http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="TV PREMIUM",ADRENALINA
-http://tecnotv.club/coo/smartv.php?c=265_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TV PREMIUM",AyM Sports
-http://tecnotv.club/coo/smartv.php?c=262_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="TV PREMIUM",BASKET AMERICAS
-http://tecnotv.club/coo/smartv.php?c=1572_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="TV PREMIUM",BEIN SPORTS Ñ
-http://tecnotv.club/coo/smartv.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="TV PREMIUM",BEIN SPORTS HD
-http://tecnotv.club/coo/smartv.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/claro_sports_thumb.png" group-title="TV PREMIUM",BEIN SPORT 
-http://tecnotv.club/coo/smartv.php?c=1868_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="TV PREMIUM",ESPN Deportes
-http://tecnotv.club/coo/smartv.php?c=1837_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="TV PREMIUM",ESPN 1 MX
-http://tecnotv.club/coo/smartv.php?c=1876_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="TV PREMIUM",ESPN 2 MX
-http://tecnotv.club/coo/smartv.php?c=131_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="TV PREMIUM",ESPN 3 MX
-http://tecnotv.club/coo/smartv.php?c=1391_&f=.m3u8
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/wvLzHC4.jpg" group-title="Cine y Series",ZEE MUNDO BOLLYWOOD EN ESPANOL
+http://tecnotv.club/pzz/smtv1.php?c=1992
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/BnWv6Vy/15ca068a1f601a976b252da87b40da73.png" group-title="Cine y Series",A&E (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1994
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/N3fB0K0/ba1cd0c8beea337f4b3f06b6cef1f6e8.png" group-title="Cine y Series",AMC
+http://tecnotv.club/pzz/smtv1.php?c=2002
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/iJBLEOq.jpeg" group-title="Cine y Series",AXN (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2008
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/5nWrPDm/e99b81b84b6ff08a4ba9ee0273c5889f.jpg" group-title="Cine y Series",CINECANAL
+http://tecnotv.club/pzz/smtv1.php?c=2016
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/sEKVGfJ.png" group-title="Cine y Series",CINEMAX (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2022
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3zq7s8N/3379664c6efe7a364f61df374af5368c.png" group-title="Cine y Series",CINE LATINO (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2026
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/mJQjmv4/80f23266d837b287398ac71da65ac30f.jpg" group-title="Cine y Series",CINEMA DINAMITA (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2028
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/8P1ByVH/29227b87126561682869eea7eb1cbac9.jpg" group-title="Cine y Series",CLARO CINEMA
+http://tecnotv.club/pzz/smtv1.php?c=2030
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/y8D8jZM/fa59d4d994b288700cb3cbf947da585e.png" group-title="Cine y Series",DHE (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2031
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LnJsfM9/ed2b79611e93fabe826755b03f1aed70.png" group-title="Cine y Series",FOX CHANNEL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2035
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LnJsfM9/ed2b79611e93fabe826755b03f1aed70.png" group-title="Cine y Series",FOX CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=2036
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LnJsfM9/ed2b79611e93fabe826755b03f1aed70.png" group-title="Cine y Series",FOX CHANNEL FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2038
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/dmrC7Xb/FOX-life.png" group-title="Cine y Series",FOX LIFE (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2042
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/7HBUYdC.png" group-title="Cine y Series",FX (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2084
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3MDXqHM/2ac6ae3aebefb59397280db685d92826.png" group-title="Cine y Series",FXM
+http://tecnotv.club/pzz/smtv1.php?c=2086
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/zihpSA0.jpg" group-title="Cine y Series",GOLDEN (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2089
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/2WbxRtk/b332418fadc3882047eca6eeb402870f.png" group-title="Cine y Series",GOLDEN PREMIER
+http://tecnotv.club/pzz/smtv1.php?c=2092
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/9YQKb10/c280c8f25b691152eac9936775dbb76d.jpg" group-title="Cine y Series",GOLDEN EDGE (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2094
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/jktgT7B/9a304c76972d3dbef05a1001dd6249af.png" group-title="Cine y Series",GOLDEN PLUS
+http://tecnotv.club/pzz/smtv1.php?c=2096
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/2NyWMGT/2784356e2fcfabe94f67833bde89c262.png" group-title="Cine y Series",HBO
+http://tecnotv.club/pzz/smtv1.php?c=2099
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/JnFCRtz/Paramount-Channel.png" group-title="Cine y Series",PARAMOUNT CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=2134
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/sRZWNKs/5934f1195bb96ccb11da581700c57667.png" group-title="Cine y Series",SONY (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2139
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/mfVtWG7.png" group-title="Cine y Series",SYFY
+http://tecnotv.club/pzz/smtv1.php?c=2145
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3mH9LZt/b8e979549280d96767634d514272b71c.png" group-title="Cine y Series",SPACE
+http://tecnotv.club/pzz/smtv1.php?c=2147
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3mH9LZt/b8e979549280d96767634d514272b71c.png" group-title="Cine y Series",SPACE FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2148
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/44jbP1k/a1d0dd440a31944bfae5b0f4ea93e787.png" group-title="Cine y Series",TCM (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2150
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/1KQW8DX/fa622ed633d7240d60ec9a7937375838.png" group-title="Cine y Series",TNT (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2152
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/YhjYCvM/67ac221ad0eba03c56b3fd0e77a6af51.png" group-title="Cine y Series",TNT SERIES (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2159
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/kLjYhoa.jpg" group-title="Cine y Series",UNIVERSAL CHANNEL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2166
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/vxytpKj/f17f97163e6b4e6c8c071af7f7a7b9b0.jpg" group-title="Cine y Series",STUDIO UNIVERSAL
+http://tecnotv.club/pzz/smtv1.php?c=2169
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/tDDI1dq.png" group-title="Cine y Series",EUROPA EUROPA
+http://tecnotv.club/pzz/smtv1.php?c=2173
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/lw9PetF.png" group-title="Cine y Series",DE PELICULA
+http://tecnotv.club/pzz/smtv1.php?c=2174
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/OoumQq2.png" group-title="Cine y Series",I.SAT
+http://tecnotv.club/pzz/smtv1.php?c=2175
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/fm5dRZ0.png" group-title="Cine y Series",FILM AND ARTS
+http://tecnotv.club/pzz/smtv1.php?c=2176
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/PtkMy0K.png" group-title="Cine y Series",WARNER CHANNEL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2179
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/PtkMy0K.png" group-title="Cine y Series",WARNER CHANNEL FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2181
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/SV9Y4VN.jpg" group-title="Cine y Series",INDIEPLEX FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2183
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/ioKCkON.jpg" group-title="Cine y Series",MOVIEMAX FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2184
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3mH9LZt/b8e979549280d96767634d514272b71c.png" group-title="Cine y Series",SPACE (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2185
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/cUuOk8z.png" group-title="Cine y Series",OUTERMAX FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2187
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/PGCxMDv/f12f300e41a267150e8b44151e0d98c1.png" group-title="Ciencia y Cultura",INVESTIGATION DISCOVERY (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1855
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/bWLQjFc/c9185009a1c93270f6688b664c75ca0d.png" group-title="Ciencia y Cultura",DISCOVERY CHANNEL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1864
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Tr04bSK/b30fc225415d7dfa75c73846e72684a3.jpg" group-title="Ciencia y Cultura",DISCOVERY H&H (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1873
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Wc25Jqz/23ea329b27ec9b889c69e8d555901379.jpg" group-title="Ciencia y Cultura",HISTORY
+http://tecnotv.club/pzz/smtv1.php?c=1881
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/L0j3Ch1.png" group-title="Ciencia y Cultura",HISTORY 2 (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1888
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/gUbqisV.jpg" group-title="Ciencia y Cultura",NATGEO (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1891
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/hf5W6ms/0cf6cc65eee7b1986cf878dae3a24d40.png" group-title="Ciencia y Cultura",NATGEO WILD (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1899
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/2sGWyFQ/591674d763cf1ea752288f1211186a27.png" group-title="Ciencia y Cultura",ANIMAL PLANET (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1906
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/eFOyrlL.png" group-title="Ciencia y Cultura",TRU TV
+http://tecnotv.club/pzz/smtv1.php?c=1910
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/FBhcnSM/6a1e14d96e26aea9b5f218dc523daabb.png" group-title="Ciencia y Cultura",DISCOVERY SCIENCE (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1913
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/SnKQYLW/ccf6f00213bfd052ea53d982276eb799.jpg" group-title="Ciencia y Cultura",DISCOVERY THEATER
+http://tecnotv.club/pzz/smtv1.php?c=1915
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/rbdfpr5/e9318a4a93e70dc360e83820c784f77a.png" group-title="Ciencia y Cultura",DISCOVERY TLC
+http://tecnotv.club/pzz/smtv1.php?c=1921
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/7SrLZGW/3a82776a435d51e9148932ba62c3ca3b.png" group-title="Ciencia y Cultura",DISCOVERY TURBO (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1925
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/nrYbGKN/b77f36fd9d112c19ae503ebfebe925a3.png" group-title="Ciencia y Cultura",DISCOVERY WORLD
+http://tecnotv.club/pzz/smtv1.php?c=1929
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/yFQJ3c6/8532814207aedc93009e4c2da0ae0a8b.jpg" group-title="Entretenimiento",COMEDY CENTRAL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1933
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/TkTiMJg.jpg" group-title="Entretenimiento",E! ENTERTAINMENT
+http://tecnotv.club/pzz/smtv1.php?c=1940
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/F0YrwVN/090a767b36a0b7a085c53a042b2fb082.png" group-title="Entretenimiento",EL GOURMET
+http://tecnotv.club/pzz/smtv1.php?c=1942
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/4FpjT3P/131bf241d9c1b73cd99eb54b88dd7e83.jpg" group-title="Entretenimiento",FOOD NETWORK
+http://tecnotv.club/pzz/smtv1.php?c=1945
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/2hp9XQ6/1fe16ec9d2f62ac324718fa37bc31d2a.jpg" group-title="Entretenimiento",HOLA TV
+http://tecnotv.club/pzz/smtv1.php?c=1947
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/LEMafWO.png" group-title="Entretenimiento",DISCOVERY FAMILIA HD
+http://tecnotv.club/pzz/smtv1.php?c=1949
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/OtWqP7C.png" group-title="Entretenimiento",ESTRELLA TV HD
+http://tecnotv.club/pzz/smtv1.php?c=1950
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/mwus6r0.jpg" group-title="Entretenimiento",MEGA TV
+http://tecnotv.club/pzz/smtv1.php?c=1951
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/hB9dBz5/40baeb106b765beb50898f23e2d2ef35.png" group-title="Entretenimiento",LAS ESTRELLAS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1952
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/Vm0bWay.png" group-title="Entretenimiento",LIFETIME
+http://tecnotv.club/pzz/smtv1.php?c=1957
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/WvCD54g.jpg" group-title="Entretenimiento",LOVE NATURE HD
+http://tecnotv.club/pzz/smtv1.php?c=1959
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/VMLgCkg/feec04d255e519dcc0f94f34bde6557b.png" group-title="Entretenimiento",MAS CHIC
+http://tecnotv.club/pzz/smtv1.php?c=1960
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/MNb3WJT/7c0fcd92574084f9b09f20b6ab01ef12.png" group-title="Entretenimiento",TBS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=1962
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/JC9ePqj.jpg" group-title="Entretenimiento",TELEMUNDO INTERNACIONAL
+http://tecnotv.club/pzz/smtv1.php?c=1965
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/aTrtOD8.png" group-title="Entretenimiento",CO: RCN NOVELAS (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2656
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/UP3GHSC.png" group-title="Entretenimiento",CO: PASIONES
+http://tecnotv.club/pzz/smtv1.php?c=2673
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/wubNaMP.jpg" group-title="Entretenimiento",MX: AZ MUNDO (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2749
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/PMLApsV.jpg" group-title="Entretenimiento",MX: GLITZ (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2774
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/azJRvAK.jpg" group-title="Entretenimiento",MX: TL NOVELAS
+http://tecnotv.club/pzz/smtv1.php?c=2798
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/aQpCznl.jpg" group-title="Entretenimiento",MX: WOBI TV (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=2800
 
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="TV PREMIUM",FOX SPORTS 1 MX
-http://tecnotv.club/coo/smartv.php?c=1873_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="TV PREMIUM",FOX SPORTS 2 MX
-http://tecnotv.club/coo/smartv.php?c=260_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="TV PREMIUM",FOX SPORTS 3 MX
-http://tecnotv.club/coo/smartv.php?c=261_&f=.m3u8
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/PGkenEn.jpg" group-title="Musica",MUSICA LATINA (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=3787
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/ykgBngw/37d655c1af3b9003efbafd7f772a1895.jpg" group-title="Musica",MC: ALTERNATIVE
+http://tecnotv.club/pzz/smtv1.php?c=3788
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/9WkwJFG/6a9e19a2310506e6387679db8fb38701.jpg" group-title="Musica",MC: BRITS HITS
+http://tecnotv.club/pzz/smtv1.php?c=3789
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/MggTt0r/e86a3ce92951ad9b65d2d7179780534a.jpg" group-title="Musica",MC: DANCE HD
+http://tecnotv.club/pzz/smtv1.php?c=3790
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/NZ7kk1s/188e4e5650a3cb57b805d201c2c401e5.jpg" group-title="Musica",MC: HIP HOP & RNB HD
+http://tecnotv.club/pzz/smtv1.php?c=3791
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/8b8hPq5/c7529cd932b63f101b996ca95741e556.jpg" group-title="Musica",MC: INDIE
+http://tecnotv.club/pzz/smtv1.php?c=3792
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/N1WPWTJ/bf3deaec44b0d7bf974a8fa298ddf006.jpg" group-title="Musica",MC: MUSICA URBANA HD
+http://tecnotv.club/pzz/smtv1.php?c=3793
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/1M8I86M.jpg" group-title="Musica",MC: 90'S
+http://tecnotv.club/pzz/smtv1.php?c=3794
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/XpMH1kj/2357da31e1076d91bc40fc566a757230.jpg" group-title="Musica",MC: MEXICANA
+http://tecnotv.club/pzz/smtv1.php?c=3795
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/NKHzs9M/15019dcf8929f6071ddc96e1174a2408.jpg" group-title="Musica",MC: HIT LIST
+http://tecnotv.club/pzz/smtv1.php?c=3796
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/BBfkYTT/82d0c44be25b67f9b8654098e8a7445f.jpg" group-title="Musica",MC: ROCK
+http://tecnotv.club/pzz/smtv1.php?c=3797
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LnJFdrP/1483b59be601f30d89452d8ca41f773f.jpg" group-title="Musica",MC: TEEN BEATS
+http://tecnotv.club/pzz/smtv1.php?c=3798
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/kBJjY2p/0b6e9ad613daf0e26cbc600a48465f56.jpg" group-title="Musica",MC: R&B/SOUL HD
+http://tecnotv.club/pzz/smtv1.php?c=3799
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/NjzPY44/82a613670ab8f1ded68da26917a3fa2c.jpg" group-title="Musica",MC: POP HITS
+http://tecnotv.club/pzz/smtv1.php?c=3800
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/W6pYPv5/b7f415e7ddbfec961ffc775f5b95b1d9.jpg" group-title="Musica",MC: METAL
+http://tecnotv.club/pzz/smtv1.php?c=3801
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/sqCNGjD/841dde96b11fa931039e21b6877b305a.jpg" group-title="Musica",MC: TODAYS COUNTRY
+http://tecnotv.club/pzz/smtv1.php?c=3802
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/w0qBHDq/8deffc3e9c23da40ece6f5aeaeed0bb6.jpg" group-title="Musica",MC: RAP
+http://tecnotv.club/pzz/smtv1.php?c=3803
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Bnx1DSb/87a59b80d271fb6ec67a6e528a6db56a.jpg" group-title="Musica",MC: TODDLER TUNES
+http://tecnotv.club/pzz/smtv1.php?c=3804
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/vdQZc1G/4fd0bc85dddca054b8b438ee149f58e2.jpg" group-title="Musica",MC: Y2K
+http://tecnotv.club/pzz/smtv1.php?c=3805
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/jv1pHgR/9cab2ae83b1bcdc140b55e3196623abb.jpg" group-title="Musica",MC: POP LATINO
+http://tecnotv.club/pzz/smtv1.php?c=3806
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/6bdkkm3/8032596403cae4ae10677aabd5264071.jpg" group-title="Musica",MC: TROPICALES
+http://tecnotv.club/pzz/smtv1.php?c=3807
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/JdCMjn4/901480fd9263b34abc611c459eb95059.png" group-title="Musica",TELEHIT PLUS
+http://tecnotv.club/pzz/smtv1.php?c=3808
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/9xIWdyD.png" group-title="Musica",ZONA LATINA (CL)
+http://tecnotv.club/pzz/smtv1.php?c=3810
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/4wOf4oP.jpg" group-title="Musica",MTV (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=3811
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/4wOf4oP.jpg" group-title="Musica",MTV
+http://tecnotv.club/pzz/smtv1.php?c=3812
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/Tq2ZpAa.png" group-title="Musica",MTV HITS
+http://tecnotv.club/pzz/smtv1.php?c=3817
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/hFhXUnr.jpg" group-title="Musica",MTV LIVE
+http://tecnotv.club/pzz/smtv1.php?c=3818
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/i0FPbOh.png" group-title="Musica",CONCERT CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=3820
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/enq8bzNm.jpg" group-title="Musica",HTV (ARG)
+http://tecnotv.club/pzz/smtv1.php?c=3823
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/CUEzf3S.png" group-title="Musica",PORTAL FOXMIX (CL)
+http://tecnotv.club/pzz/smtv1.php?c=3824
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/kL4rwff.png" group-title="Musica",RMS
+http://tecnotv.club/pzz/smtv1.php?c=3825
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/9MJ03mH.jpg" group-title="Musica",TELEHIT
+http://tecnotv.club/pzz/smtv1.php?c=3826
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/dMrUOKY.png" group-title="Musica",VH1
+http://tecnotv.club/pzz/smtv1.php?c=3828
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/8CmtoA7.jpg" group-title="Musica",VH1 CLASSIC
+http://tecnotv.club/pzz/smtv1.php?c=3829
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/Asd1yXF.jpg" group-title="Musica",MUSICA: FRECUENCIA MUSICAL TV HD
+http://tecnotv.club/pzz/smtv1.php?c=3831
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/xMzZ6QF/9dafc7abf9c620e7367fd84c3ec641ef.jpg" group-title="Religiosos",CRISTIANOS TV: 3ABN LATINO
+http://tecnotv.club/pzz/smtv1.php?c=3172
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LSJ1ShS/c1ca9c2954ae1204d5aebb14a6d5d6bf.jpg" group-title="Religiosos",CRISTIANOS TV: ALFA TELEVISION
+http://tecnotv.club/pzz/smtv1.php?c=3173
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Yfd4hgF/9a066a6c9bc95298fdcd3e18b2a4745b.png" group-title="Religiosos",CRISTIANOS TV: ALIENTO VISION
+http://tecnotv.club/pzz/smtv1.php?c=3174
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/6DQt7vX/3ce85fa80b3728be3d141f42c8ff29b5.jpg" group-title="Religiosos",CRISTIANOS TV: CASA DE ADORACION INTERNACIONAL
+http://tecnotv.club/pzz/smtv1.php?c=3175
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/T8pqhdf/53f3d2168fe136c86459976ac5743eb3.jpg" group-title="Religiosos",CRISTIANOS TV: CBN ESPANOL
+http://tecnotv.club/pzz/smtv1.php?c=3176
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/ypm5jGr/7adb8a2ca3f4a475d53effe6cd6ed790.png" group-title="Religiosos",CRISTIANOS TV: CCI CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=3177
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/MVYrYdJ/44da5612c12151c845c63a2cc4a5a772.png" group-title="Religiosos",CRISTIANOS TV: CIELO TV
+http://tecnotv.club/pzz/smtv1.php?c=3178
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/26Wbjv7/cca004b797a40818da2289ac54669a06.png" group-title="Religiosos",CRISTIANOS TV: CTNI
+http://tecnotv.club/pzz/smtv1.php?c=3179
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/yds6W0C/6229bcd04e72287ce23833d6082beb33.jpg" group-title="Religiosos",CRISTIANOS TV: ENLACE
+http://tecnotv.club/pzz/smtv1.php?c=3180
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/BTP9fvF/f4ccd7c3b66518c87edc69e7b591f372.jpg" group-title="Religiosos",CRISTIANOS TV: ENLACE JUVENIL
+http://tecnotv.club/pzz/smtv1.php?c=3181
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/LcndDWZ.jpg" group-title="Religiosos",CRISTIANOS TV: VISION CELESTIAL
+http://tecnotv.club/pzz/smtv1.php?c=3182
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/0bG5jpA.jpg" group-title="Religiosos",CRISTIANOS TV: SOLIDARIA TV
+http://tecnotv.club/pzz/smtv1.php?c=3183
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/NVd2Dma.jpg" group-title="Religiosos",CRISTIANOS TV: RED ADVENIR
+http://tecnotv.club/pzz/smtv1.php?c=3184
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/RSf5hn2/8aad9731b80ffff93eba935e29d7394e.jpg" group-title="Religiosos",CRISTIANOS TV: MISION VIDA TV
+http://tecnotv.club/pzz/smtv1.php?c=3185
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/rZ0sCcX/71867369faa34cbf646235247cf164c4.jpg" group-title="Religiosos",CRISTIANOS TV: ESPERANZA TV
+http://tecnotv.club/pzz/smtv1.php?c=3186
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/DKKJghb/514a8a4f2f2addb15bf463995e0c6470.png" group-title="Cinema Ultra",ULTRA CLASICO
+http://tecnotv.club/pzz/smtv1.php?c=2202
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/zxd2R6w/172d26d45c1359ad9a8aabfa6ad8b831.png" group-title="Cinema Ultra",ULTRA TAINMENT
+http://tecnotv.club/pzz/smtv1.php?c=2203
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/VWt0GCT/0b48b6c3085c033fbd37e382ec68e095.png" group-title="Cinema Ultra",ULTRA MEX
+http://tecnotv.club/pzz/smtv1.php?c=2204
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Czb41CZ/8386f3ef30dc443b5f8c6f9e1b8eb9c8.png" group-title="Cinema Ultra",ULTRA MACHO
+http://tecnotv.club/pzz/smtv1.php?c=2205
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/GT1rpZf/5701537e2caa89ee73aeb414759f0283.png" group-title="Cinema Ultra",ULTRA LUNA
+http://tecnotv.club/pzz/smtv1.php?c=2206
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/wBct3Mn/cbed6a404b3731c6664f823ab0135dfa.png" group-title="Cinema Ultra",ULTRA FILM
+http://tecnotv.club/pzz/smtv1.php?c=2207
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/s5dPMg0/501d167c408e2b29f764b7827e65d60f.png" group-title="Cinema Ultra",ULTRA FIESTA
+http://tecnotv.club/pzz/smtv1.php?c=2208
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/KxGkkbd/e840c5ba56d5bf47bede916c6993ae60.png" group-title="Cinema Ultra",ULTRA BANDA
+http://tecnotv.club/pzz/smtv1.php?c=2209
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/sRnpfjG/39c8591c248910f9b160e41adc64dc40.png" group-title="Cinema Ultra",ULTRA DOCU
+http://tecnotv.club/pzz/smtv1.php?c=2210
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/xKZHZFd/f164d46dddb95f1c32660e671e76074c.png" group-title="Cinema Ultra",ULTRA FAMILIA
+http://tecnotv.club/pzz/smtv1.php?c=2211
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema Ultra",ULTRA KIDZ
+http://tecnotv.club/pzz/smtv1.php?c=2212
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/znnS7nL/f1fa9359ab775c35dae9cfaa7de565e9.png" group-title="Cinema Ultra",ULTRA CINE
+http://tecnotv.club/pzz/smtv1.php?c=2213
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA HAPPY MADISON FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1979
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA SCIFI FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1980
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA FAMILIA FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1981
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA HORROR FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1982
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA ACCION CLASICOS FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1983
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA LEGO FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1984
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA DISNEY FAMILIA FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1985
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA DISNEY PIXAR FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1986
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA DREAMWORKS FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1987
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA DC UNIVERSE FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1988
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA DC COMICS FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1989
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA MARVEL STUDIO FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1990
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA MARVEL ANIMADO FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=1991
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA 01
+http://tecnotv.club/pzz/smtv1.php?c=2214
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/BBPkpj5/39ad40b78302dc171516680da15fe52b.jpg" group-title="Cinema TV",CINEMA 02
+http://tecnotv.club/pzz/smtv1.php?c=2215
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/bzWyVFj/bb4f10c7b70edf23d9429e915a34d1dd.jpg" group-title="Cinema TV",CINEMA 03
+http://tecnotv.club/pzz/smtv1.php?c=2216
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/J7ggphr/93893319a2a52016453df8a7000401a8.jpg" group-title="Cinema TV",CINEMA 04
+http://tecnotv.club/pzz/smtv1.php?c=2217
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/4WbBw76/6145cf6194a40280efd38d8f3837c987.jpg" group-title="Cinema TV",CINEMA 05
+http://tecnotv.club/pzz/smtv1.php?c=2218
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Mn5dqvc/b076842a796ce67ef0370b35756509ef.jpg" group-title="Cinema TV",CINEMA 06
+http://tecnotv.club/pzz/smtv1.php?c=2219
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/q09fzC9/406d640893397a00f2cf9129346958a5.jpg" group-title="Cinema TV",CINEMA 07
+http://tecnotv.club/pzz/smtv1.php?c=2220
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/pZzNXjH/66ee62049ac53d085487e8e4d3ce1c9d.jpg" group-title="Cinema TV",CINEMA 08
+http://tecnotv.club/pzz/smtv1.php?c=2221
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/bQmGSTK/a9efbb7eb79c6ef53ad58b8394f19b5d.jpg" group-title="Cinema TV",CINEMA 09
+http://tecnotv.club/pzz/smtv1.php?c=2222
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/1Zy2jdH/ff177f953d84b04e4d0f9e1a85844ce2.jpg" group-title="Cinema TV",CINEMA 10
+http://tecnotv.club/pzz/smtv1.php?c=2223
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/C9Y33kK/c49fef076439ceea4ff02a42740436f2.jpg" group-title="Cinema TV",CINEMA 11
+http://tecnotv.club/pzz/smtv1.php?c=2224
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/10cKt9W/8ed7bc0a270c977c6bc63f29e8cfc1df.jpg" group-title="Cinema TV",CINEMA 12
+http://tecnotv.club/pzz/smtv1.php?c=2225
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/9w0fT4F/fa7e02c3cc23edc3683e50d9d524d131.jpg" group-title="Cinema TV",CINEMA 13
+http://tecnotv.club/pzz/smtv1.php?c=2226
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/4mcb51d/5af77cf05e8ac5bb989c725b00b1d831.jpg" group-title="Cinema TV",CINEMA 14
+http://tecnotv.club/pzz/smtv1.php?c=2227
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/ZJmjMct/256ca3e93356fd9aa800a359005644b0.jpg" group-title="Cinema TV",CINEMA 15
+http://tecnotv.club/pzz/smtv1.php?c=2228
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/TqzJTzt/9dde74df81c304dcc959fcfb39056c01.jpg" group-title="Cinema TV",CINEMA 16
+http://tecnotv.club/pzz/smtv1.php?c=2229
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/Q92T0jp/d55aa4ea7632bc5a0bcdfc4049d808d9.jpg" group-title="Cinema TV",CINEMA 17
+http://tecnotv.club/pzz/smtv1.php?c=2230
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LxDr5j6/353224f2a6d591b1d6a519e4c044227e.jpg" group-title="Cinema TV",CINEMA 18
+http://tecnotv.club/pzz/smtv1.php?c=2231
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/0hbhMVJ/675fbbdc52e1e14180c01c54f4f05cbf.jpg" group-title="Cinema TV",CINEMA 19
+http://tecnotv.club/pzz/smtv1.php?c=2232
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",CINEMA 20
+http://tecnotv.club/pzz/smtv1.php?c=2233
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/9TkNkXc/4a1e2540e5906fe9146d2f1a4fd12822.jpg" group-title="Cinema TV",CINEMA 21
+http://tecnotv.club/pzz/smtv1.php?c=2234
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/ScxTYxP/56463426f6d8544ea9d4358fc0a1ba36.jpg" group-title="Cinema TV",CINEMA 22
+http://tecnotv.club/pzz/smtv1.php?c=2235
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/d2Tf9v1/485ab4a1883cf16912d324fa856eef50.jpg" group-title="Cinema TV",CINEMA 23
+http://tecnotv.club/pzz/smtv1.php?c=2236
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/m6RgdMK/7e8c7c4a43d30b369da2de9d052f5f97.jpg" group-title="Cinema TV",CINEMA 24
+http://tecnotv.club/pzz/smtv1.php?c=2237
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/k5fyDdx/53194c74fc448d080d0d904ef0a7b48f.jpg" group-title="Cinema TV",CINEMA 25
+http://tecnotv.club/pzz/smtv1.php?c=2238
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/N9NCDxF/5af6cc981de352957877e4a088cd9f80.jpg" group-title="Cinema TV",CINEMA 26
+http://tecnotv.club/pzz/smtv1.php?c=2239
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/mG2LqFh/e2838d26b1ad50773a697cb8b09c755f.jpg" group-title="Cinema TV",CINEMA 27
+http://tecnotv.club/pzz/smtv1.php?c=2240
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/4mXwJkH/e8807e980403486d6e6d2944ce27d822.jpg" group-title="Cinema TV",CINEMA 28
+http://tecnotv.club/pzz/smtv1.php?c=2241
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/MZQ3SD8/0305a46735ec992037baabed99074f7d.jpg" group-title="Cinema TV",CINEMA 29
+http://tecnotv.club/pzz/smtv1.php?c=2242
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/LJkHk1t/6d04ff76c94c07fb812ca0a5f8e8d910.jpg" group-title="Cinema TV",CINEMA 30
+http://tecnotv.club/pzz/smtv1.php?c=2243
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/JnzVKw7/2e6454fab014f356066ddc7c82d16da3.jpg" group-title="Cinema TV",CINEMA 31
+http://tecnotv.club/pzz/smtv1.php?c=2244
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/hmJySqv/483d5de9cb7ab90ca6738e99a4a14d1e.jpg" group-title="Cinema TV",CINEMA 32
+http://tecnotv.club/pzz/smtv1.php?c=2245
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/NYNLGMm/a19511461f5493a0ad001cb94396ea9a.jpg" group-title="Cinema TV",CINEMA 33
+http://tecnotv.club/pzz/smtv1.php?c=2246
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/ZB8F60n/af78bfb8327dd072f28f47add698be86.jpg" group-title="Cinema TV",CINEMA 34
+http://tecnotv.club/pzz/smtv1.php?c=2247
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/6mfyJpJ/27b31d27faa5eff1eed70854642d0b9a.jpg" group-title="Cinema TV",CINEMA 35
+http://tecnotv.club/pzz/smtv1.php?c=2248
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/gdNj2nj/0ffd1e36feec3f3913e2f6a106764f8e.jpg" group-title="Cinema TV",CINEMA 36
+http://tecnotv.club/pzz/smtv1.php?c=2249
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/dbXRfZj/d4ebe2f7f3b57d7d7ba37a3a90331708.jpg" group-title="Cinema TV",CINEMA 37
+http://tecnotv.club/pzz/smtv1.php?c=2250
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Cinema TV",A ESTRENAR FULL HD
+http://tecnotv.club/pzz/smtv1.php?c=2251
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE ZOMBIES HD
+http://tecnotv.club/pzz/smtv1.php?c=1967
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE EXTRATERRESTRES HD
+http://tecnotv.club/pzz/smtv1.php?c=1968
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE GIGANTES HD
+http://tecnotv.club/pzz/smtv1.php?c=1969
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE MARVEL STUDIOS HD
+http://tecnotv.club/pzz/smtv1.php?c=1970
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE MARVEL STUDIOS ANIMADO HD
+http://tecnotv.club/pzz/smtv1.php?c=1971
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE DC COMICS HD
+http://tecnotv.club/pzz/smtv1.php?c=1972
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/S30TJRq.png" group-title="Señor Cinema",SR CINE LEGO HD
+http://tecnotv.club/pzz/smtv1.php?c=1973
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/MQDtAhE.png" group-title="Noticias",NOTICIERO: BBC WORLD (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=3779
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/xEjBTMfm.jpg" group-title="Noticias",NOTICIERO: DW EN ESPANOL
+http://tecnotv.club/pzz/smtv1.php?c=3780
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/3Hlq20N.png" group-title="Noticias",NOTICIERO: CNN EN ESPANOL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=3781
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/ENMbdOP.png" group-title="Noticias",NOTICIERO: CNN INTERNACIONAL (MOVIL)
+http://tecnotv.club/pzz/smtv1.php?c=3783
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/U0zk97J.png" group-title="Noticias",NOTICIERO: RT EN ESPANOL
+http://tecnotv.club/pzz/smtv1.php?c=3784
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/Okw9PQT.jpg" group-title="Noticias",NOTICIERO: CORONAVIRUS TV FHD
+http://tecnotv.club/pzz/smtv1.php?c=3785
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/Y6iPZGDm.jpg" group-title="Noticias",NOTICIERO: FRANCE 24 EN ESPANOL
+http://tecnotv.club/pzz/smtv1.php?c=3786
 
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TV PREMIUM",CARACOL ***
-http://tecnotv.club/coo/smartv.php?c=74_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="TV PREMIUM",GALAVISION
-http://tecnotv.club/coo/smartv.php?c=1756_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="TV PREMIUM",GOLF CHANNEL
-http://tecnotv.club/coo/smartv.php?c=253_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="TV PREMIUM",NBCSN
-http://tecnotv.club/coo/smartv.php?c=1789_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="TV PREMIUM",FOX NFL
-http://tecnotv.club/coo/smartv.php?c=83_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TV PREMIUM",HAVOC
-http://tecnotv.club/coo/smartv.php?c=266_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TV PREMIUM",LAS Deportes
-http://tecnotv.club/coo/smartv.php?c=263_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TV PREMIUM",RCN***
-http://tecnotv.club/coo/smartv.php?c=47_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="TV PREMIUM",TELEMUNDO
-http://tecnotv.club/coo/smartv.php?c=1779_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="TV PREMIUM",TUDN MX
-http://tecnotv.club/coo/smartv.php?c=267_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="TV PREMIUM",TUDN US
-http://tecnotv.club/coo/smartv.php?c=1782_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TV PREMIUM",TVC Deportes
-http://tecnotv.club/coo/smartv.php?c=264_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TV PREMIUM",UNIMAS
-http://tecnotv.club/coo/smartv.php?c=1784_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/universo_thumb_xl2cotq2.png" group-title="TV PREMIUM",UNIVERSO
-http://tecnotv.club/coo/smartv.php?c=1849_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
-http://tecnotv.club/coo/smartv.php?c=1856_&f=.m3u8
-
-
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",STAR Action
-http://tecnotv.club/coo/smartv.php?c=1496_&f=.m3u8
-http://tecnotv.club/coo/smartv.php?c=1557_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/HBO_Family_thumb_l8f59eqc.png" group-title="TV PREMIUM",STAR fun
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxcinema-hd_thumb_w0soq46n.png" group-title="TV PREMIUM",STAR Cinema *
-http://tecnotv.club/coo/smartv.php?c=1626_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_comedy_thumb_ac5fe8wf.png" group-title="TV PREMIUM",STAR Comedy *
-http://tecnotv.club/coo/smartv.php?c=234_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-classics_thumb_9gsz52h7.png" group-title="TV PREMIUM",STAR Classics
-http://tecnotv.club/coo/smartv.php?c=1498_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",STAR Family
-http://tecnotv.club/coo/smartv.php?c=235_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-movies_thumb_a6r26oe0.png" group-title="TV PREMIUM",STAR Hits
-http://tecnotv.club/coo/smartv.php?c=167_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-series_thumb_k2zapkcq.png" group-title="TV PREMIUM",STAR Series
-http://tecnotv.club/coo/smartv.php?c=1495_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN *
-http://tecnotv.club/coo/smartv.php?c=166_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-edge_thumb_jlywismv.png" group-title="TV PREMIUM",Golden EDGE
-http://tecnotv.club/coo/smartv.php?c=169_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_kw47ht9k.png" group-title="TV PREMIUM",GOLDEN Plus *
-http://tecnotv.club/coo/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER *
-http://tecnotv.club/coo/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo_thumb_hv26mbbm.png" group-title="TV PREMIUM",HBO
-http://tecnotv.club/coo/smartv.php?c=1467_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-2_thumb_pxjkqhhs.png" group-title="TV PREMIUM",HBO 2
-http://tecnotv.club/coo/smartv.php?c=1555_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-plus_thumb_g4ptf49i.png" group-title="TV PREMIUM",HBO Plus
-
-http://tecnotv.club/coo/smartv.php?c=1500_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hboMundi_thumb_4tenpf89.png" group-title="TV PREMIUM",HBO Mundi *
-http://tecnotv.club/coo/smartv.php?c=1535_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-pop_thumb.png" group-title="TV PREMIUM",HBO POP *
-http://tecnotv.club/coo/smartv.php?c=1855_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-signature_thumb_liijapuk.png" group-title="TV PREMIUM",HBO Signature *
-http://tecnotv.club/coo/smartv.php?c=229_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-xtreme_thumb.png" group-title="TV PREMIUM",HBO Xtreme
-http://tecnotv.club/coo/smartv.php?c=1536_&f=.m3u8
-
-
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_m0wgbdan.png" group-title="TV PREMIUM",AZTECA UNO MX
-http://tecnotv.club/coo/smartv.php?c=136_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_3280eo5o.png" group-title="TV PREMIUM",CANAL 5 MX
-http://tecnotv.club/coo/smartv.php?c=134_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_hlyuscho.png" group-title="TV PREMIUM",AZTECA 7
-http://tecnotv.club/coo/smartv.php?c=133_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_nx5nfgky.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/coo/smartv.php?c=130_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_v8yqfgug.png" group-title="TV PREMIUM",MULTIMEDIOS
-http://tecnotv.club/coo/smartv.php?c=1862_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_v4nr9ng2.png" group-title="TV PREMIUM",ONCE TV HD
-http://tecnotv.club/coo/smartv.php?c=242_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_ar0o6bp8.png" group-title="TV PREMIUM",A3 SERIES
-http://tecnotv.club/coo/smartv.php?c=250_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TV PREMIUM",GALAVISION
-http://tecnotv.club/coo/smartv.php?c=87_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_4s30ej0r.png" group-title="TV PREMIUM",TELEMUNDO
-http://tecnotv.club/coo/smartv.php?c=1778_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_dssnhuu7.png" group-title="TV PREMIUM",UNIMAS
-http://tecnotv.club/coo/smartv.php?c=86_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb_7ewmf0ip.png" group-title="TV PREMIUM",AZ CORAZON
-http://tecnotv.club/coo/smartv.php?c=1676_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb_lq5jd1wu.png" group-title="TV PREMIUM",A&E
-http://tecnotv.club/coo/smartv.php?c=1476_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb_vw6s2435.png" group-title="TV PREMIUM",AXN
-http://tecnotv.club/coo/smartv.php?c=140_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb_exj2lgma.png" group-title="TV PREMIUM",COMEDY CENTRAL
-http://tecnotv.club/coo/smartv.php?c=1483_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TV PREMIUM",Entertaiment
-http://tecnotv.club/coo/smartv.php?c=1524_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_2k9ozo3b.png" group-title="TV PREMIUM",STAR Channel
-http://tecnotv.club/coo/smartv.php?c=1474_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb_vyskn253.png" group-title="TV PREMIUM",STAR LIFE
-http://tecnotv.club/coo/smartv.php?c=1559_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TV PREMIUM",FX
-http://tecnotv.club/coo/smartv.php?c=142_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TV PREMIUM",Investigation Discovery
-http://tecnotv.club/coo/smartv.php?c=1512_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_qppv6t5m.png" group-title="TV PREMIUM",SONY Channel
-http://tecnotv.club/coo/smartv.php?c=143_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb_paz2cn8v.png" group-title="TV PREMIUM",Tele Novelas
-http://tecnotv.club/coo/smartv.php?c=79_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_lgn89gg2.png" group-title="TV PREMIUM",TBS
-http://tecnotv.club/coo/smartv.php?c=1548_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnt-series_thumb_8pqj6dar.png" group-title="TV PREMIUM",TNT Series
-http://tecnotv.club/coo/smartv.php?c=1510_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb_57xd1jj3.png" group-title="TV PREMIUM",UNIVERSAL TV
-http://tecnotv.club/coo/smartv.php?c=1546_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb_hu9p6wd0.png" group-title="TV PREMIUM",WARNER TV
-http://tecnotv.club/coo/smartv.php?c=146_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb_nhudvjsc.png" group-title="TV PREMIUM",AZ CINEMA
-http://tecnotv.club/coo/smartv.php?c=93_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb_08n9mi0j.png" group-title="TV PREMIUM",AMC *
-http://tecnotv.club/coo/smartv.php?c=1672_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb_te31i31p.png" group-title="TV PREMIUM",CINECANAL
-http://tecnotv.club/coo/smartv.php?c=1482_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb_5n1c3kli.png" group-title="TV PREMIUM",CINEMAX
-http://tecnotv.club/coo/smartv.php?c=1518_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/cine-latino_thumb_q02e79dl.png" group-title="TV PREMIUM",CINE LATINO
-http://tecnotv.club/coo/smartv.php?c=85_&f=.m3u8
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb_61ieosqe.png" group-title="TV PREMIUM",FILM & ARTS
-http://tecnotv.club/coo/smartv.php?c=1527_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb_jhy1152z.png" group-title="TV PREMIUM",FXM
-http://tecnotv.club/coo/smartv.php?c=177_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_bx6qquj7.png" group-title="TV PREMIUM",ISAT
-http://tecnotv.club/coo/smartv.php?c=1533_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb_dbr9pju7.png" group-title="TV PREMIUM",MULTICINEMA
-http://tecnotv.club/coo/smartv.php?c=1867_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multipremier_thumb_cc1gxuqu.png" group-title="TV PREMIUM",MULTIPREMIER
-http://tecnotv.club/coo/smartv.php?c=1710_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb_fmls125b.png" group-title="TV PREMIUM",PARAMOUNT
-http://tecnotv.club/coo/smartv.php?c=1543_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/space_thumb_ia0d1goz.png" group-title="TV PREMIUM",SPACE
-http://tecnotv.club/coo/smartv.php?c=180_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_nqpp4m2g.png" group-title="TV PREMIUM",STUDIO Universal *
-http://tecnotv.club/coo/smartv.php?c=1720_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TV PREMIUM",SYFY
-http://tecnotv.club/coo/smartv.php?c=1547_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_swt3x169.png" group-title="TV PREMIUM",TCM *
-http://tecnotv.club/coo/smartv.php?c=1724_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT
-http://tecnotv.club/coo/smartv.php?c=1472_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_k4lqrjjv.png" group-title="TV PREMIUM",ANIMAL Planet
-http://tecnotv.club/coo/smartv.php?c=1513_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_qyk5mk2l.png" group-title="TV PREMIUM",DISCOVERY Channel
-http://tecnotv.club/coo/smartv.php?c=1486_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb_kgienfnt.png" group-title="TV PREMIUM",Discovery SCIENCE
-http://tecnotv.club/coo/smartv.php?c=1519_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_50jsgghm.png" group-title="TV PREMIUM",Discovery THEATER
-http://tecnotv.club/coo/smartv.php?c=1551_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb_62wvtncw.png" group-title="TV PREMIUM",Discovery TURBO
-http://tecnotv.club/coo/smartv.php?c=1511_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_yv8kir0v.png" group-title="TV PREMIUM",LIFE TIME
-http://tecnotv.club/coo/smartv.php?c=1528_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_08pn9bnu.png" group-title="TV PREMIUM",HISTORY Channel
-http://tecnotv.club/coo/smartv.php?c=201_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_tdao937c.png" group-title="TV PREMIUM",Histrory 2
-http://tecnotv.club/coo/smartv.php?c=1531_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_isd7oqur.png" group-title="TV PREMIUM",Home &amp; Health
-http://tecnotv.club/coo/smartv.php?c=199_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_i97f2lmp.png" group-title="TV PREMIUM",HOLA TV
-http://tecnotv.club/coo/smartv.php?c=1564_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_rbe64wu6.png" group-title="TV PREMIUM",MAS CHIC
-http://tecnotv.club/coo/smartv.php?c=190_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb_y5snyhuu.png" group-title="TV PREMIUM",NATGEO
-http://tecnotv.club/coo/smartv.php?c=1508_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb_ow2qes79.png" group-title="TV PREMIUM",Natgeo WILD
-http://tecnotv.club/coo/smartv.php?c=1507_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_ey4z48r8.png" group-title="TV PREMIUM",TLC Discovery
-http://tecnotv.club/coo/smartv.php?c=1563_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb.png" group-title="TV PREMIUM",A MAS MX
-http://tecnotv.club/coo/smartv.php?c=1_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_35823q4c.png" group-title="TV PREMIUM",AZTECA UNO MX
-http://tecnotv.club/coo/smartv.php?c=136_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_n54xud98.png" group-title="TV PREMIUM",CANAL 5 MX
-http://tecnotv.club/coo/smartv.php?c=134_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb.png" group-title="TV PREMIUM",AZTECA 7
-http://tecnotv.club/coo/smartv.php?c=133_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/coo/smartv.php?c=130_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_tg71e9ae.png" group-title="TV PREMIUM",MULTIMEDIOS
-http://tecnotv.club/coo/smartv.php?c=1862_&f=.m3u8
-
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/distritocomediahd_thumb.png" group-title="TV PREMIUM",DISTRITO COMEDIA
-http://tecnotv.club/coo/smartv.php?c=138_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/unicable_thumb_hejqfcg5.png" group-title="TV PREMIUM",UNICABLE MX
-http://tecnotv.club/coo/smartv.php?c=1871_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/mvstv_thumb_uei0cdo7.png" group-title="TV PREMIUM",MVSTV MX
-http://tecnotv.club/coo/smartv.php?c=129_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_vk6a4ra6.png" group-title="TV PREMIUM",Cine Latino
-http://tecnotv.club/coo/smartv.php?c=85_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/startve_thumb_tp6i87i4.png" group-title="TV PREMIUM",STAR TVE
-http://tecnotv.club/coo/smartv.php?c=87_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tve_thumb.png" group-title="TV PREMIUM",UniMas
-http://tecnotv.club/coo/smartv.php?c=86_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_xng904za.png" group-title="TV PREMIUM",CARACOL
-http://tecnotv.club/coo/smartv.php?c=1778_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_ecpn8qw8.png" group-title="TV PREMIUM",RCN
-http://tecnotv.club/coo/smartv.php?c=47_&f=.m3u8
 
 #EXTINF:-1 group-title="24/7",24/7  CAILLOU
-http://tecnotv.club/coo/24.php?c=3&f=.ts
+http://tecnotv.club/pzz/24.php?c=3&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://tecnotv.club/coo/24.php?c=4&f=.ts
+http://tecnotv.club/pzz/24.php?c=4&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
-http://tecnotv.club/coo/24.php?c=5&f=.ts
+http://tecnotv.club/pzz/24.php?c=5&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
-http://tecnotv.club/coo/24.php?c=6&f=.ts
+http://tecnotv.club/pzz/24.php?c=6&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
-http://tecnotv.club/coo/24.php?c=7&f=.ts
+http://tecnotv.club/pzz/24.php?c=7&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
-http://tecnotv.club/coo/24.php?c=8&f=.ts
+http://tecnotv.club/pzz/24.php?c=8&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
-http://tecnotv.club/coo/24.php?c=9&f=.ts
+http://tecnotv.club/pzz/24.php?c=9&f=.ts
 #EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
-http://tecnotv.club/coo/24.php?c=10&f=.ts
+http://tecnotv.club/pzz/24.php?c=10&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 ALF
-http://tecnotv.club/coo/24.php?c=11&f=.ts
+http://tecnotv.club/pzz/24.php?c=11&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://tecnotv.club/coo/24.php?c=13&f=.ts
+http://tecnotv.club/pzz/24.php?c=13&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
-http://tecnotv.club/coo/24.php?c=14&f=.ts
+http://tecnotv.club/pzz/24.php?c=14&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://tecnotv.club/coo/24.php?c=16&f=.ts
+http://tecnotv.club/pzz/24.php?c=16&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
-http://tecnotv.club/coo/24.php?c=17&f=.ts
+http://tecnotv.club/pzz/24.php?c=17&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 CABALLEROS DEL ZODIACO
-http://tecnotv.club/coo/24.php?c=18&f=.ts
+http://tecnotv.club/pzz/24.php?c=18&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
-http://tecnotv.club/coo/24.php?c=19&f=.ts
+http://tecnotv.club/pzz/24.php?c=19&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
-http://tecnotv.club/coo/24.php?c=21&f=.ts
+http://tecnotv.club/pzz/24.php?c=21&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Death note
-http://tecnotv.club/coo/24.php?c=22&f=.ts
+http://tecnotv.club/pzz/24.php?c=22&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://tecnotv.club/coo/24.php?c=23&f=.ts
+http://tecnotv.club/pzz/24.php?c=23&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 DRAGON  BALL SUPER
-http://tecnotv.club/coo/24.php?c=25&f=.ts
+http://tecnotv.club/pzz/24.php?c=25&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
-http://tecnotv.club/coo/24.php?c=26&f=.ts
+http://tecnotv.club/pzz/24.php?c=26&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
-http://tecnotv.club/coo/24.php?c=27&f=.ts
+http://tecnotv.club/pzz/24.php?c=27&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 El Avispón Verde
-http://tecnotv.club/coo/24.php?c=28&f=.ts
+http://tecnotv.club/pzz/24.php?c=28&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://tecnotv.club/coo/24.php?c=29&f=.ts
+http://tecnotv.club/pzz/24.php?c=29&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
-http://tecnotv.club/coo/24.php?c=30&f=.ts
+http://tecnotv.club/pzz/24.php?c=30&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL CHEMA
-http://tecnotv.club/coo/24.php?c=31&f=.ts
+http://tecnotv.club/pzz/24.php?c=31&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://tecnotv.club/coo/24.php?c=32&f=.ts
+http://tecnotv.club/pzz/24.php?c=32&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL PATON DEL MAL
-http://tecnotv.club/coo/24.php?c=33&f=.ts
+http://tecnotv.club/pzz/24.php?c=33&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 EL SEÑOR DE LOS CIELOS
-http://tecnotv.club/coo/24.php?c=34&f=.ts
+http://tecnotv.club/pzz/24.php?c=34&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
-http://tecnotv.club/coo/24.php?c=35&f=.ts
+http://tecnotv.club/pzz/24.php?c=35&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://tecnotv.club/coo/24.php?c=36&f=.ts
+http://tecnotv.club/pzz/24.php?c=36&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 He-Man
-http://tecnotv.club/coo/24.php?c=37&f=.ts
+http://tecnotv.club/pzz/24.php?c=37&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 HÉROES EN PIJAMAS
-http://tecnotv.club/coo/24.php?c=38&f=.ts
+http://tecnotv.club/pzz/24.php?c=38&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
-http://tecnotv.club/coo/24.php?c=39&f=.ts
+http://tecnotv.club/pzz/24.php?c=39&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
-http://tecnotv.club/coo/24.php?c=40&f=.ts
+http://tecnotv.club/pzz/24.php?c=40&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://tecnotv.club/coo/24.php?c=41&f=.ts
+http://tecnotv.club/pzz/24.php?c=41&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
-http://tecnotv.club/coo/24.php?c=42&f=.ts
+http://tecnotv.club/pzz/24.php?c=42&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
-http://tecnotv.club/coo/24.php?c=44&f=.ts
+http://tecnotv.club/pzz/24.php?c=44&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
-http://tecnotv.club/coo/24.php?c=45&f=.ts
+http://tecnotv.club/pzz/24.php?c=45&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://tecnotv.club/coo/24.php?c=46&f=.ts
+http://tecnotv.club/pzz/24.php?c=46&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LAZY TOWN
-http://tecnotv.club/coo/24.php?c=47&f=.ts
+http://tecnotv.club/pzz/24.php?c=47&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://tecnotv.club/coo/24.php?c=48&f=.ts
+http://tecnotv.club/pzz/24.php?c=48&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://tecnotv.club/coo/24.php?c=49&f=.ts
+http://tecnotv.club/pzz/24.php?c=49&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
-http://tecnotv.club/coo/24.php?c=50&f=.ts
+http://tecnotv.club/pzz/24.php?c=50&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://tecnotv.club/coo/24.php?c=51&f=.ts
+http://tecnotv.club/pzz/24.php?c=51&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Malcolm in the middle 2000
-http://tecnotv.club/coo/24.php?c=52&f=.ts
+http://tecnotv.club/pzz/24.php?c=52&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Mazinger Z
-http://tecnotv.club/coo/24.php?c=53&f=.ts
+http://tecnotv.club/pzz/24.php?c=53&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Naruto
-http://tecnotv.club/coo/24.php?c=55&f=.ts
+http://tecnotv.club/pzz/24.php?c=55&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
-http://tecnotv.club/coo/24.php?c=57&f=.ts
+http://tecnotv.club/pzz/24.php?c=57&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 PELICULAS ESTRENOS 2018
-http://tecnotv.club/coo/24.php?c=58&f=.ts
+http://tecnotv.club/pzz/24.php?c=58&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 PEPPA PIG
-http://tecnotv.club/coo/24.php?c=59&f=.ts
+http://tecnotv.club/pzz/24.php?c=59&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
-http://tecnotv.club/coo/24.php?c=60&f=.ts
+http://tecnotv.club/pzz/24.php?c=60&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Pokémon
-http://tecnotv.club/coo/24.php?c=61&f=.ts
+http://tecnotv.club/pzz/24.php?c=61&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
-http://tecnotv.club/coo/24.php?c=62&f=.ts
+http://tecnotv.club/pzz/24.php?c=62&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://tecnotv.club/coo/24.php?c=63&f=.ts
+http://tecnotv.club/pzz/24.php?c=63&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
-http://tecnotv.club/coo/24.php?c=64&f=.ts
+http://tecnotv.club/pzz/24.php?c=64&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 1
-http://tecnotv.club/coo/24.php?c=65&f=.ts
+http://tecnotv.club/pzz/24.php?c=65&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 2
-http://tecnotv.club/coo/24.php?c=66&f=.ts
+http://tecnotv.club/pzz/24.php?c=66&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 SHERA
-http://tecnotv.club/coo/24.php?c=67&f=.ts
+http://tecnotv.club/pzz/24.php?c=67&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
-http://tecnotv.club/coo/24.php?c=68&f=.ts
+http://tecnotv.club/pzz/24.php?c=68&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
-http://tecnotv.club/coo/24.php?c=69&f=.ts
+http://tecnotv.club/pzz/24.php?c=69&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
-http://tecnotv.club/coo/24.php?c=70&f=.ts
+http://tecnotv.club/pzz/24.php?c=70&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://tecnotv.club/coo/24.php?c=71&f=.ts
+http://tecnotv.club/pzz/24.php?c=71&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
-http://tecnotv.club/coo/24.php?c=72&f=.ts
+http://tecnotv.club/pzz/24.php?c=72&f=.ts
 #EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
-http://tecnotv.club/coo/24.php?c=73&f=.ts
+http://tecnotv.club/pzz/24.php?c=73&f=.ts
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
@@ -446,17 +618,17 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="6" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+#EXTINF:-1 group-title="MUSICA" tvg-id="6" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="11" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Baladas
+#EXTINF:-1 group-title="MUSICA" tvg-id="11" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Baladas
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="10" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Pop
+#EXTINF:-1 group-title="MUSICA" tvg-id="10" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Pop
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="9" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
+#EXTINF:-1 group-title="MUSICA" tvg-id="9" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="7" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Top 100
+#EXTINF:-1 group-title="MUSICA" tvg-id="7" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Top 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-id="8" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOcoo3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Tropical
+#EXTINF:-1 group-title="MUSICA" tvg-id="8" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOpzz3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Tropical
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
