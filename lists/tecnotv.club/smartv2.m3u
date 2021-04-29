@@ -1,259 +1,154 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tnt-sports
-#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports-premium
-#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tudn
-#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=goltvlatino
-#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=beinlatino
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=vtv
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=caracoltv
-#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=golperu
-#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=cdfpremium
-#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports1ar
-#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports2ar
-#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports3ar
-#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn1ar
-#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn2ar
-#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn3ar
-#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports1mx
-#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports2mx
-#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox-sports3mx
-#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn1mx
-#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn2mx
-#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn3mx
-#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=espn+ar
-#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=directv-sports
-#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=directv-sports2
-#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=directv-sports-plus
-#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tyc
-#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=golflatino
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxaction
-#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=adrenalinatv
-#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=aymsports
-#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=univisiondeportes
-#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=winsports
-
-#EXTINF:-1 tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=telefe
-#EXTINF:-1 tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=eltrece
-#EXTINF:-1 tvg-logo="/logos/america2.png" group-title="Lista 16",AMERICA TV
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=america2
-#EXTINF:-1 tvg-logo="/logos/tvpublica.png" group-title="Lista 16",TV PUBLICA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tvpublica
-#EXTINF:-1 tvg-logo="/logos/tn.png" group-title="Lista 16",TN ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tn
-#EXTINF:-1 tvg-logo="/logos/c5n.png" group-title="Lista 16",C5N ARGENTINA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=c5n
-#EXTINF:-1 tvg-logo="/logos/canalnueve.png" group-title="Lista 16",EL NUEVE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=canal9ar
-#EXTINF:-1 tvg-logo="/logos/canal26.png" group-title="Lista 16",CANAL 26
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=canal26ar
-#EXTINF:-1 tvg-logo="/logos/cronicatv.png" group-title="Lista 16",CRONICA TV
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=cronicatv
-#EXTINF:-1 tvg-logo="/logos/ciudadmagazine.png" group-title="Lista 16",CIUDAD MAGAZINE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=ciudadmagazine
-#EXTINF:-1 tvg-logo="/logos/a24.png" group-title="Lista 16",A 24
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=a24
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=vtv
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=caracoltv
-#EXTINF:-1 tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO-
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=canalbajio
-#EXTINF:-1 tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5 TELEVISA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=canal5televisa
-#EXTINF:-1 tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA 1
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=azteca
-#EXTINF:-1 tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA SIETE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=azteca7
-#EXTINF:-1 tvg-logo="/logos/aztecamas.png" group-title="Lista 16",AZTECA MAS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=aztecamas
-#EXTINF:-1 tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",AZTECA CINEMA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=aztecacinema
-#EXTINF:-1 tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",AZTECA MUNDO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=aztecamundo
-#EXTINF:-1 tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",AZTECA CORAZON
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=aztecacorazon
-#EXTINF:-1 tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",CANAL LAS ESTRELLAS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=canalestrellas
-#EXTINF:-1 tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=telenovelas
-#EXTINF:-1 tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=mtv
-#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Lista 16",FOX LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fox
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxaction
-#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",FOX PREMIUM SERIES
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxseries
-#EXTINF:-1 tvg-logo="/logos/foxfamily.png" group-title="Lista 16",FOX PREMIUM FAMILY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxfamily
-#EXTINF:-1 tvg-logo="/logos/foxcinema.png" group-title="Lista 16",FOX PREMIUM CINEMA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxcinema
-#EXTINF:-1 tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",FOX PREMIUM COMEDY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxcomedy
-#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxclassics
-#EXTINF:-1 tvg-logo="/logos/foxmovies.png" group-title="Lista 16",FOX PREMIUM MOVIES
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxmovies
-#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",FOX LIFE LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=foxlife
-#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=hbo
-#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=hbo2
-#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=hboplus
-#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=hbofamily
-#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=hbosignature
-#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=maxprime
-#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=maxlatino
-#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=maxup
-#EXTINF:-1 tvg-logo="/logos/golden.png" group-title="Lista 16",GOLDEN
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=golden
-#EXTINF:-1 tvg-logo="/logos/goldenplus.png" group-title="Lista 16",GOLDEN PLUS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=goldenplus
-#EXTINF:-1 tvg-logo="/logos/goldenedge.png" group-title="Lista 16",GOLDEN EDGE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=goldenedge
-#EXTINF:-1 tvg-logo="/logos/cinemax.png" group-title="Lista 16",CINEMAX
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=cinemax
-#EXTINF:-1 tvg-logo="/logos/cinecanal.png" group-title="Lista 16",CINECANAL
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=cinecanal
-#EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="Lista 16",TNT LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tnt
-#EXTINF:-1 tvg-logo="/logos/tntseries.png" group-title="Lista 16",TNT SERIES
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tntseries
-#EXTINF:-1 tvg-logo="/logos/axnlatino.png" group-title="Lista 16",AXN LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=axn
-#EXTINF:-1 tvg-logo="/logos/amclatino.png" group-title="Lista 16",AMC LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=amc
-#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tcm
-#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=syfy
-#EXTINF:-1 tvg-logo="/logos/fxm.png" group-title="Lista 16",FXM
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fxm
-#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="Lista 16",FX
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=fx
-#EXTINF:-1 tvg-logo="/logos/space.png" group-title="Lista 16",SPACE
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=space
-#EXTINF:-1 tvg-logo="/logos/comedycentrallatino.png" group-title="Lista 16",COMEDY CENTRAL LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=comedycentral
-#EXTINF:-1 tvg-logo="/logos/paramountlatino.png" group-title="Lista 16",PARAMOUNT CHANNEL LATINO
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=paramountchannel
-#EXTINF:-1 tvg-logo="/logos/sony.png" group-title="Lista 16",SONY
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=sony
-#EXTINF:-1 tvg-logo="/logos/tbs.png" group-title="Lista 16",TBS
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=tbs
-#EXTINF:-1 tvg-logo="/logos/studiouniversal.png" group-title="Lista 16",STUDIO UNIVERSAL
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=studiouniversal
-#EXTINF:-1 tvg-logo="/logos/universalchannel.png" group-title="Lista 16",UNIVERSAL CHANNEL
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=universalchannel
-#EXTINF:-1 tvg-logo="/logos/warner.png" group-title="Lista 16",WARNER
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=warner
-#EXTINF:-1 tvg-logo="/logos/depelicula.png" group-title="Lista 16",DE PELICULA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=depelicula
-#EXTINF:-1 tvg-logo="/logos/distritocomedia.png" group-title="Lista 16",DISTRITO COMEDIA
-http://tecnotv.club/abb/smtv2.php?cat=latinos&ch=distritocomedia
-
-
-
-
-#EXTINF:-1 tvg-logo="/logos/historylatino.png" group-title="Lista 16",HISTORY
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=history
-#EXTINF:-1 tvg-logo="/logos/history2.png" group-title="Lista 16",HISTORY 2
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=history2
-#EXTINF:-1 tvg-logo="/logos/discoverychannellatino.png" group-title="Lista 16",DISCOVERY CHANNEL
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoverychannel
-#EXTINF:-1 tvg-logo="/logos/tlc.png" group-title="Lista 16",DISCOVERY TLC
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=tlc
-#EXTINF:-1 tvg-logo="/logos/discoverycivilization.png" group-title="Lista 16",DISCOVERY CIVILIZATION
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoverycivilization
-#EXTINF:-1 tvg-logo="/logos/discoveryturbo.png" group-title="Lista 16",DISCOVERY TURBO
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoveryturbo
-#EXTINF:-1 tvg-logo="/logos/discoverytheater.png" group-title="Lista 16",DISCOVERY THEATER
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoverytheater
-#EXTINF:-1 tvg-logo="/logos/discoverysci.png" group-title="Lista 16",DISCOVERY SCIENCIE
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoverysciencie
-#EXTINF:-1 tvg-logo="/logos/invdiscovery.png" group-title="Lista 16",INVESTIGACION DISCOVERY
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoveryinvestigacion
-#EXTINF:-1 tvg-logo="/logos/discoveryhh.png" group-title="Lista 16",DISCOVERY H&H
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoveryhh
-#EXTINF:-1 tvg-logo="/logos/discoveryworl.png" group-title="Lista 16",DISCOVERY WORL
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=discoveryworl
-#EXTINF:-1 tvg-logo="/logos/nationalgeographiclatino.png" group-title="Lista 16",NATIONAL GEOGRAPHIC
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=nationalgeo
-#EXTINF:-1 tvg-logo="/logos/natgeowilllatino.png" group-title="Lista 16",NAT GEO WILL
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=nationalwill
-#EXTINF:-1 tvg-logo="/logos/ae.png" group-title="Lista 16",A&E
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=ae
-#EXTINF:-1 tvg-logo="/logos/animalplanet.png" group-title="Lista 16",ANIMAL PLANET
-http://blackghost.live/play/wistream-302.php?cat=latinos&ch=animalplanet
-
-
-#EXTINF:-1 tvg-logo="/logos/cartoonnetwork.png" group-title="Lista 16",cartoon network
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=cartoonnetwork
-#EXTINF:-1 tvg-logo="/logos/discoverykids.png" group-title="Lista 16",discovery kids
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=discoverykids
-#EXTINF:-1 tvg-logo="/logos/disneyjunior.png" group-title="Lista 16",disney junior
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=disneyjunior
-#EXTINF:-1 tvg-logo="/logos/disneyxd.png" group-title="Lista 16",disney xd
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=disneyxd
-#EXTINF:-1 tvg-logo="/logos/disneychannel.png" group-title="Lista 16",disney channel
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=disneychannel
-#EXTINF:-1 tvg-logo="/logos/nick.png" group-title="Lista 16",nick
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=nick
-#EXTINF:-1 tvg-logo="/logos/nicktoons.png" group-title="Lista 16",nicktoons
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=nicktoons
-#EXTINF:-1 tvg-logo="/logos/babyfirst.png" group-title="Lista 16",babyfirst
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=babyfirst
-#EXTINF:-1 tvg-logo="/logos/tooncast.png" group-title="Lista 16",tooncast
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=tooncast
-#EXTINF:-1 tvg-logo="/logos/boomerang.png" group-title="Lista 16",boomerang
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=boomerang
-#EXTINF:-1 tvg-logo="/logos/boing.png" group-title="Lista 16",boing
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=boing
-#EXTINF:-1 tvg-logo="/logos/clantv.png" group-title="Lista 16",clantv
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=clantv
-#EXTINF:-1 tvg-logo="/logos/pakapaka.png" group-title="Lista 16",paka paka
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=pakapaka
-#EXTINF:-1 tvg-logo="/logos/kidstv.png" group-title="Lista 16",kidstv
-http://blackghost.live/play/wistream-302.php?cat=infantiles&ch=kidstv
+#EXTINF:-1 group-title="TELEVISION",AZ Mundo
+http://tecnotv.club/bba/smartv2.php?ch=AZMUNDOMX
+#EXTINF:-1 group-title="TELEVISION",Azteca UNO
+http://tecnotv.club/bba/smartv2.php?ch=AZTECA1MX
+#EXTINF:-1 group-title="TELEVISION",Azteca 7
+http://tecnotv.club/bba/smartv2.php?ch=AZTECA7MX
+#EXTINF:-1 group-title="TELEVISION",Canal 5
+http://tecnotv.club/bba/smartv2.php?ch=CANAL5MX
+#EXTINF:-1 group-title="TELEVISION",Foro TV
+http://tecnotv.club/bba/smartv2.php?ch=FOROTVMX
+#EXTINF:-1 group-title="TELEVISION",Galavision
+http://tecnotv.club/bba/smartv2.php?ch=GALAVISION
+#EXTINF:-1 group-title="TELEVISION",Imagen TV
+http://tecnotv.club/bba/smartv2.php?ch=IMAGENTVMX
+#EXTINF:-1 group-title="TELEVISION",Las Estrellas
+http://tecnotv.club/bba/smartv2.php?ch=LASESTRELLASMX
+#EXTINF:-1 group-title="TELEVISION",Unimas
+http://tecnotv.club/bba/smartv2.php?ch=UNIMAS
+#EXTINF:-1 group-title="TELEVISION",Univision
+http://tecnotv.club/bba/smartv2.php?ch=UNIVISION
+#EXTINF:-1 group-title="TELEVISION",AE
+http://tecnotv.club/bba/smartv2.php?ch=A-AND-EMX
+#EXTINF:-1 group-title="TELEVISION",Distrito Comedia
+http://tecnotv.club/bba/smartv2.php?ch=DISTRITOCOMEDIAMX
+#EXTINF:-1 group-title="TELEVISION",Gourmet
+http://tecnotv.club/bba/smartv2.php?ch=GOURMETMX
+#EXTINF:-1 group-title="TELEVISION",TLC
+http://tecnotv.club/bba/smartv2.php?ch=TLCMX
+#EXTINF:-1 group-title="TELEVISION",TLNovelas
+http://tecnotv.club/bba/smartv2.php?ch=TLNOVELAS
+#EXTINF:-1 group-title="TELEVISION",TV Mas
+http://tecnotv.club/bba/smartv2.php?ch=TVMASMX
+#EXTINF:-1 group-title="TELEVISION",TBS
+http://tecnotv.club/bba/smartv2.php?ch=TBSMX
+#EXTINF:-1 group-title="TELEVISION",TRU TV
+http://tecnotv.club/bba/smartv2.php?ch=TRUTVMX
+#EXTINF:-1 group-title="TELEVISION",Unicable
+http://tecnotv.club/bba/smartv2.php?ch=UNICABLEMX
+#EXTINF:-1 group-title="TELEVISION",FX
+http://tecnotv.club/bba/smartv2.php?ch=FXMX
+#EXTINF:-1 group-title="TELEVISION",FXM
+http://tecnotv.club/bba/smartv2.php?ch=FXMMX
+#EXTINF:-1 group-title="TELEVISION",Golden
+http://tecnotv.club/bba/smartv2.php?ch=GOLDENMX
+#EXTINF:-1 group-title="TELEVISION",Golden Edge
+http://tecnotv.club/bba/smartv2.php?ch=GOLDENEDGEMX
+#EXTINF:-1 group-title="TELEVISION",Golden Plus
+http://tecnotv.club/bba/smartv2.php?ch=GOLDENPLUSMX
+#EXTINF:-1 group-title="TELEVISION",Paramount
+http://tecnotv.club/bba/smartv2.php?ch=PARAMOUNTCHANNELMX
+#EXTINF:-1 group-title="TELEVISION",Sony
+http://tecnotv.club/bba/smartv2.php?ch=SONYMX
+#EXTINF:-1 group-title="TELEVISION",Space
+http://tecnotv.club/bba/smartv2.php?ch=SPACEMX
+#EXTINF:-1 group-title="TELEVISION",SYFY
+http://tecnotv.club/bba/smartv2.php?ch=SYFYMX
+#EXTINF:-1 group-title="TELEVISION",bba
+http://tecnotv.club/bba/smartv2.php?ch=bbaMX
+#EXTINF:-1 group-title="TELEVISION",bba Series
+http://tecnotv.club/bba/smartv2.php?ch=bbaSERIESMX
+#EXTINF:-1 group-title="TELEVISION",AXN
+http://tecnotv.club/bba/smartv2.php?ch=AXNMX
+#EXTINF:-1 group-title="TELEVISION",AMC
+http://tecnotv.club/bba/smartv2.php?ch=AMCMX
+#EXTINF:-1 group-title="TELEVISION",Cine Canal
+http://tecnotv.club/bba/smartv2.php?ch=CINECANALMX
+#EXTINF:-1 group-title="TELEVISION",Cinemax
+http://tecnotv.club/bba/smartv2.php?ch=CINEMAXMX
+#EXTINF:-1 group-title="TELEVISION",Warner
+http://tecnotv.club/bba/smartv2.php?ch=WARNERCHANNELMX
+#EXTINF:-1 group-title="TELEVISION",TCM
+http://tecnotv.club/bba/smartv2.php?ch=TCMMX
+#EXTINF:-1 group-title="TELEVISION",Universal Channel
+http://tecnotv.club/bba/smartv2.php?ch=UNIVERSALCHANNELMX
+#EXTINF:-1 group-title="TELEVISION",Cine Latino
+http://tecnotv.club/bba/smartv2.php?ch=CINELATINOMX
+#EXTINF:-1 group-title="TELEVISION",Boomerang
+http://tecnotv.club/bba/smartv2.php?ch=BOOMERANGMX
+#EXTINF:-1 group-title="TELEVISION",Disney Junior
+http://tecnotv.club/bba/smartv2.php?ch=DISNEYJUNIORMX
+#EXTINF:-1 group-title="TELEVISION",Disney Channel
+http://tecnotv.club/bba/smartv2.php?ch=DISNEYCHANNELMX
+#EXTINF:-1 group-title="TELEVISION",Disney XD
+http://tecnotv.club/bba/smartv2.php?ch=DISNEYXDMX
+#EXTINF:-1 group-title="TELEVISION",Natgeo Kids
+http://tecnotv.club/bba/smartv2.php?ch=NATGEOKIDSMX
+#EXTINF:-1 group-title="TELEVISION",Nick
+http://tecnotv.club/bba/smartv2.php?ch=NICKMX
+#EXTINF:-1 group-title="TELEVISION",Nick Jr
+http://tecnotv.club/bba/smartv2.php?ch=NICKJUNIORMX
+#EXTINF:-1 group-title="TELEVISION",Nick Toons
+http://tecnotv.club/bba/smartv2.php?ch=NICKTOONSMX
+#EXTINF:-1 group-title="TELEVISION",Tooncast
+http://tecnotv.club/bba/smartv2.php?ch=TOONCASTMX
+#EXTINF:-1 group-title="TELEVISION",Cartoon Network
+http://tecnotv.club/bba/smartv2.php?ch=CARTOONNETWORKMX
+#EXTINF:-1 group-title="TELEVISION",Discovery Kids
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYKIDSMX
+#EXTINF:-1 group-title="TELEVISION",Animal Planet
+http://tecnotv.club/bba/smartv2.php?ch=ANIMALPLANETMX
+#EXTINF:-1 group-title="TELEVISION",History
+http://tecnotv.club/bba/smartv2.php?ch=HISTORYMX
+#EXTINF:-1 group-title="TELEVISION",History 2
+http://tecnotv.club/bba/smartv2.php?ch=HISTORY2MX
+#EXTINF:-1 group-title="TELEVISION",ID
+http://tecnotv.club/bba/smartv2.php?ch=INVESTIGATIONDISCOVERYMX
+#EXTINF:-1 group-title="TELEVISION",Natgeo
+http://tecnotv.club/bba/smartv2.php?ch=NATGEOMX
+#EXTINF:-1 group-title="TELEVISION",Natgeo Wild
+http://tecnotv.club/bba/smartv2.php?ch=NATGEOWILDMX
+#EXTINF:-1 group-title="TELEVISION",Discovery Channel
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYCHANNELMX
+#EXTINF:-1 group-title="TELEVISION",Discovery Turbo
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYTURBOHDMX
+#EXTINF:-1 group-title="TELEVISION",Discovery Science
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYSCIENCEMX
+#EXTINF:-1 group-title="TELEVISION",Discovery Theater
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYTHEATERMX
+#EXTINF:-1 group-title="TELEVISION",Discovery World
+http://tecnotv.club/bba/smartv2.php?ch=DISCOVERYWORLDMX
+#EXTINF:-1 group-title="TELEVISION",MTV
+http://tecnotv.club/bba/smartv2.php?ch=MTVMX
+#EXTINF:-1 group-title="TELEVISION",TELEHIT
+http://tecnotv.club/bba/smartv2.php?ch=TELEHITMX
+#EXTINF:-1 group-title="TELEVISION",ESPN
+http://tecnotv.club/bba/smartv2.php?ch=ESPNMX
+#EXTINF:-1 group-title="TELEVISION",ESPN 2
+http://tecnotv.club/bba/smartv2.php?ch=ESPN2MX
+#EXTINF:-1 group-title="TELEVISION",ESPN 3
+http://tecnotv.club/bba/smartv2.php?ch=ESPN3MX
+#EXTINF:-1 group-title="TELEVISION",Fox Sports
+http://tecnotv.club/bba/smartv2.php?ch=FOXSPORTSMX
+#EXTINF:-1 group-title="TELEVISION",Fox Sports 2
+http://tecnotv.club/bba/smartv2.php?ch=FOXSPORTS2MX
+#EXTINF:-1 group-title="TELEVISION",Fox Sports 3
+http://tecnotv.club/bba/smartv2.php?ch=FOXSPORTS3MX
+#EXTINF:-1 group-title="TELEVISION",Fox
+http://tecnotv.club/bba/smartv2.php?ch=FOXMX
+#EXTINF:-1 group-title="TELEVISION",Fox Action
+http://tecnotv.club/bba/smartv2.php?ch=FOXACTIONMX
+#EXTINF:-1 group-title="TELEVISION",Fox Cinema
+http://tecnotv.club/bba/smartv2.php?ch=FOXCINEMAMX
+#EXTINF:-1 group-title="TELEVISION",Fox Movies
+http://tecnotv.club/bba/smartv2.php?ch=FOXMOVIESMX
+#EXTINF:-1 group-title="TELEVISION",Fox Series
+http://tecnotv.club/bba/smartv2.php?ch=FOXSERIESMX
+#EXTINF:-1 group-title="TELEVISION",Fox Family
+http://tecnotv.club/bba/smartv2.php?ch=FOXFAMILYMX
+#EXTINF:-1 group-title="TELEVISION",Fox Classic
+http://tecnotv.club/bba/smartv2.php?ch=FOXCLASSICMX
+#EXTINF:-1 group-title="TELEVISION",Fox Life
+http://tecnotv.club/bba/smartv2.php?ch=FOXLIFEMX
